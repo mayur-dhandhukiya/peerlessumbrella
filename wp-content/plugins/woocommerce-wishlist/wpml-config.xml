@@ -1,0 +1,18 @@
+<wpml-config>
+	<admin-texts>
+		<key name="woocommerce_wishlist_options">
+			<key name="textBtnAddText" />
+			<key name="textBtnAddedText" />
+			<key name="textSelectWishlist" />
+			<key name="textCreateWishlist" />
+			<key name="textCreateWishlistName" />
+			<key name="textEditWishlist" />
+			<key name="textViewWishlist" />
+			<key name="textPublic" />
+			<key name="textShared" />
+			<key name="textPrivate" />
+			<key name="textWishlistDeleted" />
+			<key name="textNoProducts" />
+		</key> 
+	</admin-texts>
+</wpml-config>

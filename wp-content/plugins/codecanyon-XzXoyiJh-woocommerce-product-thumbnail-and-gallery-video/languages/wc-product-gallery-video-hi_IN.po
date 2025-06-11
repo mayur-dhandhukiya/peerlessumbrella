@@ -1,0 +1,83 @@
+# Copyright (C) 2018 crevol software team
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Product Gallery Video 1.0.0\n"
+"Report-Msgid-Bugs-To: Crevol Support Team <support@crevolsoft.com>\n"
+"POT-Creation-Date: 2019-04-15 13:30:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-04-15 14:09+0530\n"
+"Language-Team: Crevol Support Team <support@crevolsoft.com>\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: hi_IN\n"
+
+#: woocommerce-gallery-video.php:73
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-gallery-video.php:74
+msgid "Support"
+msgstr ""
+
+#: woocommerce-gallery-video.php:74
+msgid "Docs"
+msgstr ""
+
+#: admin/class-cspgv-product-gallery-video.php:32
+msgid "Product Gallery Video"
+msgstr "उत्पाद गैलरी वीडियो"
+
+#: admin/class-cspgv-product-gallery-video.php:55
+msgid "Video on Shop"
+msgstr "दुकान पर वीडियो"
+
+#: admin/class-cspgv-product-gallery-video.php:56
+msgid "Enable video on product image on shop page."
+msgstr "शॉप पेज पर उत्पाद छवि पर वीडियो सक्षम करें."
+
+#: admin/class-cspgv-product-gallery-video.php:63
+msgid "Video on Single Product Page"
+msgstr "एकल उत्पाद पृष्ठ पर वीडियो"
+
+#: admin/class-cspgv-product-gallery-video.php:64
+msgid "Enable videon on Single product page."
+msgstr "एकल उत्पाद पृष्ठ पर videon सक्षम करें ।"
+
+#: admin/class-cspgv-product-gallery-video.php:71
+msgid "Auto Play"
+msgstr "ऑटो प्ले"
+
+#: admin/class-cspgv-product-gallery-video.php:72
+msgid "Enable auto play for video."
+msgstr ""
+
+#: admin/class-cspgv-product-gallery-video.php:79
+msgid "Video Width"
+msgstr "वीडियो चौड़ाई"
+
+#: admin/class-cspgv-product-gallery-video.php:80
+msgid "Set video Width. eg 500"
+msgstr ""
+
+#: admin/class-cspgv-product-gallery-video.php:80
+msgid "Video Height"
+msgstr "वीडियो ऊंचाई"
+
+#: admin/class-cspgv-product-gallery-video.php:80
+msgid "Set Video Height. eg 300"
+msgstr ""
+
+#: admin/class-cspgv-product-gallery-video.php:107
+msgid "Upload a Video"
+msgstr "वीडियो अपलोड करें"
+
+#: admin/class-cspgv-product-gallery-video.php:107
+msgid "Use this video"
+msgstr "इस वीडियो का उपयोग"
+
+#: admin/class-cspgv-product-gallery-video.php:107
+msgid "Video Url"
+msgstr "वीडियो यूआरएल"

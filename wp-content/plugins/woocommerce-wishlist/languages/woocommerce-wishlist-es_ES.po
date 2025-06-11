@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Quick View\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-09 11:47+0000\n"
+"PO-Revision-Date: 2018-08-09 11:47+0000\n"
+"Last-Translator: DB-Dzine <contact@db-dzine.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-wishlist.php:88
+msgid ""
+"WooCommerce Wishlist requires the WooCommerce & free Redux Framework plugin. "
+"Please install or activate them!"
+msgstr "La lista de deseos de WooCommerce requiere el complemento WooCommerce y Redux Framework gratuito. Por favor, instálalos o actívalos"
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr "Información"
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr "<p> ¿Necesitas ayuda? Utilice la función de comentario en codecanyon. </ P>"
+
+#: admin/options-init.php:105
+msgid "Image"
+msgstr "Imagen"
+
+#: admin/options-init.php:106
+msgid "Title"
+msgstr "Título"
+
+#: admin/options-init.php:107
+msgid "Reviews"
+msgstr "Comentarios"
+
+#: admin/options-init.php:108
+msgid "Price"
+msgstr "Precio"
+
+#: admin/options-init.php:109
+msgid "Stock"
+msgstr "Valores"
+
+#: admin/options-init.php:110
+#: admin/class-woocommerce-wishlist-statistics.php:115
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/options-init.php:111
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: admin/options-init.php:112
+msgid "Categories"
+msgstr "Categorías"
+
+#: admin/options-init.php:113
+msgid "Short Description"
+msgstr "Breve descripción"
+
+#: admin/options-init.php:114
+msgid "Add to Cart"
+msgstr "añadir a la cesta"
+
+#: admin/options-init.php:121
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/options-init.php:122
+msgid "Attributes"
+msgstr "Atributos"
+
+#: admin/options-init.php:123
+#: public/templates/woocommerce-wishlist-single-item.php:161
+msgid "Read More"
+msgstr "Lee mas"
+
+#: admin/options-init.php:134 admin/class-woocommerce-wishlist-post-type.php:63
+msgid "Wishlist"
+msgstr "Deseados"
+
+#: admin/options-init.php:136
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "¿Necesita ayuda? Utilice la función de comentario en codecanyon."
+
+#: admin/options-init.php:141
+msgid "General"
+msgstr "General"
+
+#: admin/options-init.php:149
+msgid "Enable"
+msgstr "Habilitar"
+
+#: admin/options-init.php:150
+msgid "Enable Wishlist."
+msgstr "Habilitar lista de deseos"
+
+#: admin/options-init.php:164
+msgid "Enable Wishlist Search"
+msgstr "Activar lista de deseos"
+
+#: admin/options-init.php:165
+msgid "Enable to search for public Wishlists."
+msgstr "Habilitar para buscar listas de deseos públicas."
+
+#: admin/options-init.php:180
+msgid "Enable Guest Wishlists"
+msgstr "Habilitar Wish Wishlists"
+
+#: admin/options-init.php:181
+msgid ""
+"Not logged in users can create wishlists. They will be saved in a cookie, "
+"but they can not create own wishlists."
+msgstr "Los usuarios no registrados pueden crear listas de deseos. Se guardarán en una cookie, pero no pueden crear listas de deseos propias."
+
+#: admin/options-init.php:189
+msgid "Button"
+msgstr "Botón"
+
+#: admin/options-init.php:197
+msgid "Enable Shop Loop Button"
+msgstr "Habilitar botón Comprar bucle"
+
+#: admin/options-init.php:203
+msgid "Shop Loop Position"
+msgstr "Comprar posición de bucle"
+
+#: admin/options-init.php:204
+msgid "Specify the positon of the wishlist button in the shop loop."
+msgstr "Especifique la posición del botón de lista de deseos en el circuito de la tienda."
+
+#: admin/options-init.php:207
+msgid "before_shop_loop_item"
+msgstr "before_shop_loop_item"
+
+#: admin/options-init.php:208
+msgid "before_shop_loop_item_title"
+msgstr "before_shop_loop_item_title"
+
+#: admin/options-init.php:209
+msgid "shop_loop_item_title"
+msgstr "shop_loop_item_title"
+
+#: admin/options-init.php:210
+msgid "after_shop_loop_item_title"
+msgstr "after_shop_loop_item_title"
+
+#: admin/options-init.php:211
+msgid "after_shop_loop_item"
+msgstr "after_shop_loop_item"
+
+#: admin/options-init.php:218 admin/options-init.php:252
+msgid "Hook Priority"
+msgstr "Prioridad de gancho"
+
+#: admin/options-init.php:228
+msgid "Enable Product Page Button"
+msgstr "Habilitar botón de página de producto"
+
+#: admin/options-init.php:234
+msgid "Single Product Page Position"
+msgstr "Posición de la página de un solo producto"
+
+#: admin/options-init.php:235
+msgid "Specify the positon of the wishlist button on the single product page."
+msgstr "Especifique la posición del botón de lista de deseos en la página del producto individual."
+
+#: admin/options-init.php:263
+msgid "Styling"
+msgstr "Estilo"
+
+#: admin/options-init.php:271
+msgid "Modal Styles"
+msgstr "Estilos modales"
+
+#: admin/options-init.php:272
+msgid "Styles for the wishlist modal."
+msgstr "Estilos para la lista de deseos."
+
+#: admin/options-init.php:294
+msgid "Modal Text Color"
+msgstr "Color de texto modal"
+
+#: admin/options-init.php:295
+msgid "Text Color of the Modal"
+msgstr "Color del texto del modal"
+
+#: admin/options-init.php:302
+msgid "Modal Background Color"
+msgstr "Color de fondo modal"
+
+#: admin/options-init.php:303
+msgid "Background Color of the Modal"
+msgstr "Color de fondo del modal"
+
+#: admin/options-init.php:309
+msgid "Backdrop Styles"
+msgstr "Estilos de fondo"
+
+#: admin/options-init.php:310
+msgid "Styles for the modal backdrop."
+msgstr "Estilos para el telón de fondo modal."
+
+#: admin/options-init.php:316
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: admin/options-init.php:343
+msgid "Data to Show"
+msgstr "Datos para mostrar"
+
+#: admin/options-init.php:358
+msgid "Show Share Buttons"
+msgstr "Mostrar botones Compartir"
+
+#: admin/options-init.php:371
+msgid "Show Facebook Share"
+msgstr "Mostrar Facebook Compartir"
+
+#: admin/options-init.php:378
+msgid "Show Twitter Share"
+msgstr "Mostrar la parte de Twitter"
+
+#: admin/options-init.php:385
+msgid "Show Pinterest Share"
+msgstr "Mostrar parte de Pinterest"
+
+#: admin/options-init.php:392
+msgid "Show Google Share"
+msgstr "Mostrar Google Share"
+
+#: admin/options-init.php:399
+msgid "Show Email Share"
+msgstr "Mostrar correo electrónico compartido"
+
+#: admin/class-woocommerce-wishlist-post-type.php:64
+msgid "Wishlists"
+msgstr "Listas de deseos"
+
+#: admin/class-woocommerce-wishlist-post-type.php:68
+#, php-format
+msgid "All %s"
+msgstr "Todos %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:70
+#: admin/class-woocommerce-wishlist-post-type.php:73
+#, php-format
+msgid "New %s"
+msgstr "Nuevo %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:71
+#, php-format
+msgid "Add New %s"
+msgstr "Agregar nuevo %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:72
+#, php-format
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:74
+#, php-format
+msgid "View %s"
+msgstr "Ver %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:75
+#, php-format
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:76
+#, php-format
+msgid "No %s found"
+msgstr "No %s encontrados"
+
+#: admin/class-woocommerce-wishlist-post-type.php:77
+#, php-format
+msgid "No %s found in trash"
+msgstr "No %s encontrados en la basura"
+
+#: admin/class-woocommerce-wishlist-post-type.php:120
+msgid "Visibility"
+msgstr "Visibilidad"
+
+#: admin/class-woocommerce-wishlist-post-type.php:188
+msgid " added on "
+msgstr " añadido "
+
+#: admin/class-woocommerce-wishlist-statistics.php:44
+#: admin/class-woocommerce-wishlist-statistics.php:45
+msgid "Statistics"
+msgstr "Estadística"
+
+#: admin/class-woocommerce-wishlist-statistics.php:62
+msgid "No Wishlists created yet"
+msgstr "Aún no se han creado listas de deseos"
+
+#: admin/class-woocommerce-wishlist-statistics.php:114
+msgid "Product"
+msgstr "Producto"
+
+#: admin/class-woocommerce-wishlist-statistics.php:116
+msgid "Wishlist Count"
+msgstr "Lista de deseos"
+
+#: public/class-woocommerce-wishlist-page.php:79
+#: public/class-woocommerce-wishlist-search.php:79
+msgid "You need to create an account or login to use our wishlist."
+msgstr "Necesita crear una cuenta o iniciar sesión para usar nuestra lista de deseos."
+
+#: public/class-woocommerce-wishlist-search.php:127
+msgid "By "
+msgstr "Por "
+
+#: public/class-woocommerce-wishlist-search.php:128
+msgid " Products"
+msgstr " Productos"
+
+#: public/class-woocommerce-wishlist-search.php:133
+#, php-format
+msgid "%d Wishlists found for %s"
+msgstr "%d listas de deseos encontradas para %s"
+
+#: public/class-woocommerce-wishlist-search.php:135
+#, php-format
+msgid "No Wishlists found for %s"
+msgstr "No se encontraron listas de deseos para %s"
+
+#: public/class-woocommerce-wishlist-public.php:144
+#: public/class-woocommerce-wishlist-public.php:219
+#: public/class-woocommerce-wishlist-public.php:234
+msgid "<i class=\"fa fa-heart\"></i> Add to Wishlist"
+msgstr "<i class = \ "fa fa-heart \"> </ i> Añadir a la lista de deseos"
+
+#: public/class-woocommerce-wishlist-public.php:145
+msgid "<i class=\"fa fa-heart\"></i> Added to Wishlist"
+msgstr "<i class = \ "fa fa-heart \"> </ i> Añadido a la lista de deseos"
+
+#: public/class-woocommerce-wishlist-public.php:146
+msgid "Select a Wishlist"
+msgstr "Seleccione una lista de deseos"
+
+#: public/class-woocommerce-wishlist-public.php:147
+msgid "Create a new Wishlist"
+msgstr "Crea una nueva lista de deseos"
+
+#: public/class-woocommerce-wishlist-public.php:148
+msgid "Your Wishlist Name"
+msgstr "Tu lista de deseos Nombre"
+
+#: public/class-woocommerce-wishlist-public.php:149
+#: public/templates/woocommerce-wishlist.php:23
+msgid "Edit Wishlist"
+msgstr "Editar lista de deseos"
+
+#: public/class-woocommerce-wishlist-public.php:150
+#: public/class-woocommerce-wishlist-public.php:461
+#: public/class-woocommerce-wishlist-public.php:483
+msgid "View Wishlist"
+msgstr "Ver lista de deseos"
+
+#: public/class-woocommerce-wishlist-public.php:151
+msgid "Public"
+msgstr "Público"
+
+#: public/class-woocommerce-wishlist-public.php:152
+msgid "Shared"
+msgstr "Compartido"
+
+#: public/class-woocommerce-wishlist-public.php:153
+msgid "Private"
+msgstr "Privado"
+
+#: public/class-woocommerce-wishlist-public.php:154
+msgid "Wishlist Deleted"
+msgstr "Lista de deseos eliminada"
+
+#: public/class-woocommerce-wishlist-public.php:155
+msgid "No products added to your wishlist so far."
+msgstr "No hay productos agregados a su lista de deseos hasta el momento."
+
+#: public/class-woocommerce-wishlist-public.php:324
+msgid "No Products found"
+msgstr "No se encontraron productos"
+
+#: public/class-woocommerce-wishlist-public.php:460
+#, php-format
+msgid "Product %s is already on your Wishlist %s!"
+msgstr "¡El producto %s ya está en su lista de deseos %s !"
+
+#: public/class-woocommerce-wishlist-public.php:482
+#, php-format
+msgid "Product %s has been added to your Wishlist %s."
+msgstr "El producto %s se ha agregado a su lista de deseos %s ."
+
+#: public/class-woocommerce-wishlist-public.php:498
+#, php-format
+msgid "Product %s has been removed from your Wishlist %s."
+msgstr "El producto %s ha sido eliminado de su lista de deseos %s ."
+
+#: public/templates/woocommerce-wishlist-search.php:20
+msgid "Search for Public Wishlists."
+msgstr "Buscar listas de deseos públicas."
+
+#: public/templates/woocommerce-wishlist.php:17
+msgid "This wishlist is set to private."
+msgstr "Esta lista de deseos está configurada como privada."
+
+#: public/templates/woocommerce-wishlist.php:24
+msgid "Delete Wishlist"
+msgstr "Eliminar lista de deseos"
+
+#: public/templates/woocommerce-wishlist.php:36
+msgid "No products added to this wishlist so far."
+msgstr "No hay productos agregados a esta lista de deseos hasta el momento."
+
+#: public/templates/woocommerce-wishlist.php:55
+msgid "Share this Wishlist ..."
+msgstr "Comparte esta lista de deseos ..."
+
+#: public/templates/woocommerce-wishlist-page.php:23
+msgid "Please login to use all wishlist features."
+msgstr "Por favor inicie sesión para usar todas las características de la lista de deseos."
+
+#: public/templates/woocommerce-wishlist-page.php:28
+msgid "Your Wishlists"
+msgstr "Tus listas de deseos"
+
+#: public/templates/woocommerce-wishlist-page.php:51
+msgid "No Wishlists created yet."
+msgstr "No se han creado Wishlists todavía."
+
+#: public/templates/woocommerce-wishlist-page.php:59
+msgid "Create new Wishlist"
+msgstr "Crear nueva lista de deseos"
+
+#: public/templates/woocommerce-wishlist-page.php:64
+msgid "Search Public Wishlists"
+msgstr "Buscar listas de deseos públicas"
+
+#: public/templates/woocommerce-wishlist-single-item.php:113
+msgid "SKU: "
+msgstr "SKU: "
+
+#. Name of the plugin
+msgid "WooCommerce Wishlist"
+msgstr "Lista de deseos de WooCommerce"
+
+#. Description of the plugin
+msgid "Let your Users create Wishlists"
+msgstr "Deja que tus usuarios creen listas de deseos"
+
+#. URI of the plugin
+msgid "https://plugins.db-dzine.com"
+msgstr "https://plugins.db-dzine.com"
+
+#. Author of the plugin
+msgid "DB-Dzine"
+msgstr "DB-Dzine"
+
+#. Author URI of the plugin
+msgid "http://www.db-dzine.de"
+msgstr "http://www.db-dzine.de"
+

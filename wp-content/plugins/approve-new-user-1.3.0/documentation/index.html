@@ -1,0 +1,215 @@
+<!doctype html>  
+<!--[if IE 6 ]><html lang="en-us" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en-us" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en-us" class="ie8"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<title>Wordpress & WooCommerce Approve New User - User Validation</title>
+	
+	<meta name="description" content="Allows admin to manually approve new user registrations. Keep your store private by only allowing VIP customers to enjoy registration benefits.">
+	<meta name="author" content="Addify">
+	<meta name="copyright" content="Addify">
+	<meta name="generator" content="Documenter v2.0 http://rxa.li/documenter">
+	<meta name="date" content="2018-10-10T00:00:00+02:00">
+	
+	<link rel="stylesheet" href="assets/css/documenter_style.css" media="all">
+	
+	
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+	<script src="assets/js/jquery.js"></script>
+	
+	<script src="assets/js/jquery.scrollTo.js"></script>
+	<script src="assets/js/jquery.easing.js"></script>
+	
+	<script>document.createElement('section');var duration='500',easing='swing';</script>
+	<script src="assets/js/script.js"></script>
+	
+	<style>
+		html{background-color:#FFFFFF;color:#FFFFFF;}
+		::-moz-selection{background:#FFFFFF;color:#FFFFFF;}
+		::selection{background:#FFFFFF;color:#FFFFFF;}
+		#documenter_sidebar #documenter_logo{background-image:url(assets/images/image_1.png);}
+		a{color:#FFFFFF;}
+		.btn {
+			border-radius:3px;
+		}
+		.btn-primary {
+			  background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+			  background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+			  background-image: -webkit-gradient(linear, 0 0, 0 FFFFFF%, from(#FFFFFF), to(#FFFFFF));
+			  background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+			  background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+			  background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+			  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+			  border-color: #FFFFFF #FFFFFF #bfbfbf;
+			  color:#FFFFFF;
+		}
+		.btn-primary:hover,
+		.btn-primary:active,
+		.btn-primary.active,
+		.btn-primary.disabled,
+		.btn-primary[disabled] {
+		  border-color: #FFFFFF #FFFFFF #bfbfbf;
+		  background-color: #FFFFFF;
+		}
+		hr{border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;}
+		#documenter_sidebar, #documenter_sidebar ul a{background-color:#FFFFFF;color:#FFFFFF;}
+		#documenter_sidebar ul a{-webkit-text-shadow:1px 1px 0px #FFFFFF;-moz-text-shadow:1px 1px 0px #FFFFFF;text-shadow:1px 1px 0px #FFFFFF;}
+		#documenter_sidebar ul{border-top:1px solid #FFFFFF;}
+		#documenter_sidebar ul a{border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;color:#FFFFFF;}
+		#documenter_sidebar ul a:hover{background:#FFFFFF;color:#FFFFFF;border-top:1px solid #FFFFFF;}
+		#documenter_sidebar ul a.current{background:#FFFFFF;color:#FFFFFF;border-top:1px solid #FFFFFF;}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+	</style>
+	
+</head>
+<body class="documenter-project-wordpress-woocommerce-approve-new-user">
+	<div id="documenter_sidebar">
+		<a href="#documenter_cover" id="documenter_logo"></a>
+		<ul id="documenter_nav">
+			<li><a class="current" href="#documenter_cover">Start</a></li>
+				
+			<li><a href="#how_to_install" title="1. How to Install">1. How to Install</a></li>
+			<li><a href="#user_guide" title="2. User Guide">2. User Guide</a></li>
+			<li><a href="#general_settings" title="General Settings">General Settings</a></li>
+			<li><a href="#email_settings" title="Email Settings">Email Settings</a></li>
+			<li><a href="#additional_field_settings" title="Additional Field Settings">Additional Field Settings</a></li>
+			<li><a href="#front_end_display" title="Front End Display">Front End Display</a></li>
+
+		</ul>
+		<div id="documenter_copyright">Copyright Addify 2018<br>
+		made with the <a href="http://rxa.li/documenter">Documenter v2.0</a> 
+		</div>
+	</div>
+	<div id="documenter_content">
+	<section id="documenter_cover">
+	<h1>Wordpress & WooCommerce Approve New User</h1>
+	<h2>User Validation</h2>
+	<div id="documenter_buttons">
+		
+	</div>
+	<hr>
+	<ul>
+	<li>created: 10/07/2018</li>
+	<li>latest update: 10/10/2018</li>
+	<li>by: Addify</li>
+	<li><a href=""></a></li>
+	<li>email: <a href="mailto:&#105;&#110;&#102;&#111;&#64;&#97;&#100;&#100;&#105;&#102;&#121;&#112;&#114;&#111;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#97;&#100;&#100;&#105;&#102;&#121;&#112;&#114;&#111;&#46;&#99;&#111;&#109;</a></li>
+	</ul>
+	<p></p>
+	</section>
+	
+	<section id="how_to_install">
+	<div class="page-header"><h3>1. How to Install</h3><hr class="notop"></div>
+<section id="how_to_install" style="display: block; padding-top: 70px; caret-color: rgb(111, 111, 111); color: rgb(111, 111, 111); font-family: Arial, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">
+	<p style="margin: 18px 0px; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-size: 12px; font-family: Arial, verdana, arial, sans-serif; vertical-align: baseline; line-height: 1.5em; caret-color: rgb(56, 56, 56); color: rgb(56, 56, 56); font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;">
+		<strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: 700; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline;">1: Install From Wordpress Admin:</strong></p>
+	<ol style="margin: 18px 0px; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-size: 12px; font-family: Arial, verdana, arial, sans-serif; vertical-align: baseline; line-height: 1.5em; caret-color: rgb(56, 56, 56); color: rgb(56, 56, 56); font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; list-style-type: lower-alpha;">
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			Download zip file from codecanyon.</li>
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			Logged into wordpress admin panel.</li>
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			From menu navigate to plugins</li>
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			Click on Add New.</li>
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			Click Upload Plugin and then upload zip file that you hav downloaded from codecanyon. After installation click on Activate plugin.</li>
+	</ol>
+	<p style="margin: 18px 0px; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-size: 12px; font-family: Arial, verdana, arial, sans-serif; vertical-align: baseline; line-height: 1.5em; caret-color: rgb(56, 56, 56); color: rgb(56, 56, 56); font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;">
+		&nbsp;</p>
+	<p style="margin: 18px 0px; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-size: 12px; font-family: Arial, verdana, arial, sans-serif; vertical-align: baseline; line-height: 1.5em; caret-color: rgb(56, 56, 56); color: rgb(56, 56, 56); font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;">
+		<strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: 700; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline;">2:&nbsp; Install via FTP:</strong></p>
+	<ol style="margin: 18px 0px; padding: 0px; border: 0px; outline: 0px; font-weight: normal; font-style: normal; font-size: 12px; font-family: Arial, verdana, arial, sans-serif; vertical-align: baseline; line-height: 1.5em; caret-color: rgb(56, 56, 56); color: rgb(56, 56, 56); font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; list-style-type: lower-alpha;">
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			Unzip the zip file that you have downloaded from codecanyon into you computer.</li>
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			Upload files via any FTP cient like Filezilla.</li>
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			After uploading all files logged in to wordpress admin panel.</li>
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			From menu navigate to Plugin and then click on Installed Plugins.</li>
+		<li style="margin: 0px 0px 0px 36px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; list-style: decimal;">
+			Click on install button under then Addify &ndash; Approve New User</li>
+	</ol>
+</section>
+<section id="user_guide" style="display: block; padding-top: 70px; caret-color: rgb(111, 111, 111); color: rgb(111, 111, 111); font-family: Arial, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">
+	<div class="page-header" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline;">
+		&nbsp;</div>
+</section>
+</section>
+<section id="user_guide">
+	<div class="page-header"><h3>2. User Guide</h3><hr class="notop"></div>
+<p>
+	Start Here</p>
+</section>
+<section id="general_settings">
+	<div class="page-header"><h3>General Settings</h3><hr class="notop"></div>
+<p>
+	1) In General settings you can spesify on which users roles you want to apply approve new user, if you to apply on all you can select all.</p>
+<p>
+	2) If you want to show user roles drop down select on the registration page then you can use that module that is mention, this module will show user role selection drop down on registration page.</p>
+<p>
+	3) You can also add the messages, these messages are shown when user is registred, pending and when rejected.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<img alt="" src="assets/images/image_4.png" style="width: 1414px; height: 838px;"></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="email_settings">
+	<div class="page-header"><h3>Email Settings</h3><hr class="notop"></div>
+<p>
+	Here you can email messages that are sent to user.</p>
+<p>
+	1) Approval Email Message:</p>
+<p>
+	When user is registred then an email is sent to user to tell him/her that his/her account is pending. You can send customize message to the user by using this email message.</p>
+<p>
+	2) Disapprove Email Message:</p>
+<p>
+	When account is disapprove by admin then an email is sent to user to tell him/her that his/her account is disapproved by admin. You can customize this message from here.</p>
+<p>
+	3) Approved Email Message:</p>
+<p>
+	When account is approved by admin then an email is sent to user to tell him/her that his/her account is approved. You can customize this email from here.</p>
+<p>
+	<img alt="" src="assets/images/image_5.png" style="width: 1442px; height: 1102px;"></p>
+</section>
+<section id="additional_field_settings">
+	<div class="page-header"><h3>Additional Field Settings</h3><hr class="notop"></div>
+<p>
+	If you want to get some additional information like (tax number or License no) then you can add this additional field on the registration form.</p>
+<p>
+	<img alt="" src="assets/images/image_6.png" style="width: 1297px; height: 696px;"></p>
+</section>
+<section id="front_end_display">
+	<div class="page-header"><h3>Front End Display</h3><hr class="notop"></div>
+<p>
+	After registration user will see message like this.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<img alt="" src="assets/images/image_3.png" style="width: 1188px; height: 688px;"></p>
+<p>
+	&nbsp;</p>
+<p>
+	Additional Field will be shown like this.</p>
+<p>
+	<img alt="" src="assets/images/image_2.png"  ></p>
+</section>
+
+	</div>
+</body>
+</html>

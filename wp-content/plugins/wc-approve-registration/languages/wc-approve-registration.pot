@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-14 15:38+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wc-approve-registration.php:53
+msgid ""
+"WooCommerce Approve Customer needs WooCommerce to be installed and active."
+msgstr ""
+
+#: includes/class-war-admin-settings.php:16
+msgid "Approve Customer"
+msgstr ""
+
+#: includes/class-war-admin-settings.php:40
+msgid "Status"
+msgstr ""
+
+#: includes/class-war-admin-settings.php:47
+msgid "Disable"
+msgstr ""
+
+#: includes/class-war-admin-settings.php:49
+msgid "Active"
+msgstr ""
+
+#: includes/class-war-admin-settings.php:56
+msgid "Enable Account"
+msgstr ""
+
+#: includes/class-war-admin-settings.php:57
+msgid "Disable Account"
+msgstr ""
+
+#: includes/class-war-common.php:13
+msgid "Account Approved"
+msgstr ""
+
+#: includes/class-war-common.php:26 includes/class-war-common.php:39
+msgid "Account Disapproved"
+msgstr ""
+
+#: includes/class-war-frontend.php:26
+msgid "Your account is disablled."
+msgstr ""
+
+#: includes/class-war-frontend.php:50
+msgid "You are registered but your account is disabled."
+msgstr ""
+
+#: includes/class-war-frontend.php:54
+msgid "Error:"
+msgstr ""
+
+#: includes/class-war-settings.php:10
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-war-settings.php:11
+msgid "Notification Settings"
+msgstr ""
+
+#: includes/class-war-settings.php:48
+msgid "Enable Module"
+msgstr ""
+
+#: includes/class-war-settings.php:52
+msgid "Enable module to work on frontend."
+msgstr ""
+
+#: includes/class-war-settings.php:57
+msgid "Enable Manual Approve"
+msgstr ""
+
+#: includes/class-war-settings.php:61
+msgid "Enable this option to manually approve new customer registration."
+msgstr ""
+
+#: includes/class-war-settings.php:66
+msgid "Message For Account Created"
+msgstr ""
+
+#: includes/class-war-settings.php:70
+msgid "Message for customers when account is created but pending for approval."
+msgstr ""
+
+#: includes/class-war-settings.php:75
+msgid "Account Disabled Login Message"
+msgstr ""
+
+#: includes/class-war-settings.php:79
+msgid "Message for customers when account is disabled for login."
+msgstr ""
+
+#: includes/class-war-settings.php:98
+msgid "Enable Account Pending Notification"
+msgstr ""
+
+#: includes/class-war-settings.php:102
+msgid "Enable this option to enable the account pending notification."
+msgstr ""
+
+#: includes/class-war-settings.php:107
+msgid "Account Pending Notification Subject"
+msgstr ""
+
+#: includes/class-war-settings.php:111
+msgid "Email notification subject for account in pending."
+msgstr ""
+
+#: includes/class-war-settings.php:116
+msgid "Account Pending Notification Body"
+msgstr ""
+
+#: includes/class-war-settings.php:120
+msgid "User role grant email notification body."
+msgstr ""
+
+#: includes/class-war-settings.php:125
+msgid "Enable Account Approve Notification"
+msgstr ""
+
+#: includes/class-war-settings.php:129
+msgid "Enable this option to enable the account approve notification."
+msgstr ""
+
+#: includes/class-war-settings.php:134
+msgid "Account Approval Notification Subject"
+msgstr ""
+
+#: includes/class-war-settings.php:138
+msgid "Email notification subject for account approval."
+msgstr ""
+
+#: includes/class-war-settings.php:143
+msgid "Account Approve Notification Body"
+msgstr ""
+
+#: includes/class-war-settings.php:147
+msgid "Account approval email notification body."
+msgstr ""
+
+#: includes/class-war-settings.php:152
+msgid "Enable Account Disapprove Notification"
+msgstr ""
+
+#: includes/class-war-settings.php:156
+msgid "Enable this option to enable the account disapprove notification."
+msgstr ""
+
+#: includes/class-war-settings.php:161
+msgid "Account Disapprove Notification Subject"
+msgstr ""
+
+#: includes/class-war-settings.php:165
+msgid "Email notification subject for account disapprove."
+msgstr ""
+
+#: includes/class-war-settings.php:170
+msgid "Account Disapprove Notification Body"
+msgstr ""
+
+#: includes/class-war-settings.php:174
+msgid "Account disapprove email notification body."
+msgstr ""

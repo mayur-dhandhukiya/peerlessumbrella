@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Quick View\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-09 11:47+0000\n"
+"PO-Revision-Date: 2018-08-09 11:47+0000\n"
+"Last-Translator: DB-Dzine <contact@db-dzine.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-wishlist.php:88
+msgid ""
+"WooCommerce Wishlist requires the WooCommerce & free Redux Framework plugin. "
+"Please install or activate them!"
+msgstr "WooCommerce Wishlist vaatii WooCommerce & free Redux Framework plugin. Asenna ne tai aktivoi ne!"
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr "Tiedot"
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr "<p> Tarvitsetko tukea? Käytä kommentointitoimintoa codecanyonilla. </ P>"
+
+#: admin/options-init.php:105
+msgid "Image"
+msgstr "Kuva"
+
+#: admin/options-init.php:106
+msgid "Title"
+msgstr "otsikko"
+
+#: admin/options-init.php:107
+msgid "Reviews"
+msgstr "Arvostelut"
+
+#: admin/options-init.php:108
+msgid "Price"
+msgstr "Hinta"
+
+#: admin/options-init.php:109
+msgid "Stock"
+msgstr "kalusto"
+
+#: admin/options-init.php:110
+#: admin/class-woocommerce-wishlist-statistics.php:115
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/options-init.php:111
+msgid "Tags"
+msgstr "Tunnisteet"
+
+#: admin/options-init.php:112
+msgid "Categories"
+msgstr "Luokat"
+
+#: admin/options-init.php:113
+msgid "Short Description"
+msgstr "Lyhyt kuvaus"
+
+#: admin/options-init.php:114
+msgid "Add to Cart"
+msgstr "Lisää koriin>"
+
+#: admin/options-init.php:121
+msgid "Description"
+msgstr "Kuvaus"
+
+#: admin/options-init.php:122
+msgid "Attributes"
+msgstr "määritteet"
+
+#: admin/options-init.php:123
+#: public/templates/woocommerce-wishlist-single-item.php:161
+msgid "Read More"
+msgstr "Lue lisää"
+
+#: admin/options-init.php:134 admin/class-woocommerce-wishlist-post-type.php:63
+msgid "Wishlist"
+msgstr "toivelista"
+
+#: admin/options-init.php:136
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "Tarvitsetko tukea? Käytä kommentointitoimintoa koodekanialla."
+
+#: admin/options-init.php:141
+msgid "General"
+msgstr "yleinen"
+
+#: admin/options-init.php:149
+msgid "Enable"
+msgstr "ota käyttöön"
+
+#: admin/options-init.php:150
+msgid "Enable Wishlist."
+msgstr "Ota käyttöön toivelista."
+
+#: admin/options-init.php:164
+msgid "Enable Wishlist Search"
+msgstr "Ota käyttöön toiveiden haku"
+
+#: admin/options-init.php:165
+msgid "Enable to search for public Wishlists."
+msgstr "Ota etsimään julkisia Suosikkiluetteloita."
+
+#: admin/options-init.php:180
+msgid "Enable Guest Wishlists"
+msgstr "Ota asiakkaan toiveiden luettelo käyttöön"
+
+#: admin/options-init.php:181
+msgid ""
+"Not logged in users can create wishlists. They will be saved in a cookie, "
+"but they can not create own wishlists."
+msgstr "Käyttäjät, jotka eivät ole kirjautuneet sisään, voivat luoda toiveita. Ne tallennetaan evästeeseen, mutta he eivät voi luoda omia toiveita."
+
+#: admin/options-init.php:189
+msgid "Button"
+msgstr "nappi"
+
+#: admin/options-init.php:197
+msgid "Enable Shop Loop Button"
+msgstr "Ota Shop Loop -painike käyttöön"
+
+#: admin/options-init.php:203
+msgid "Shop Loop Position"
+msgstr "Kauppapaikan sijainti"
+
+#: admin/options-init.php:204
+msgid "Specify the positon of the wishlist button in the shop loop."
+msgstr "Määritä haluamasi ostopainike ostosilmukassa."
+
+#: admin/options-init.php:207
+msgid "before_shop_loop_item"
+msgstr "before_shop_loop_item"
+
+#: admin/options-init.php:208
+msgid "before_shop_loop_item_title"
+msgstr "before_shop_loop_item_title"
+
+#: admin/options-init.php:209
+msgid "shop_loop_item_title"
+msgstr "shop_loop_item_title"
+
+#: admin/options-init.php:210
+msgid "after_shop_loop_item_title"
+msgstr "after_shop_loop_item_title"
+
+#: admin/options-init.php:211
+msgid "after_shop_loop_item"
+msgstr "after_shop_loop_item"
+
+#: admin/options-init.php:218 admin/options-init.php:252
+msgid "Hook Priority"
+msgstr "Hook prioriteetti"
+
+#: admin/options-init.php:228
+msgid "Enable Product Page Button"
+msgstr "Ota tuotesivun painike käyttöön"
+
+#: admin/options-init.php:234
+msgid "Single Product Page Position"
+msgstr "Yksittäisen tuotteen sivun sijainti"
+
+#: admin/options-init.php:235
+msgid "Specify the positon of the wishlist button on the single product page."
+msgstr "Määritä haluamasi muistiinpanopainike yksittäisellä tuotesivulla."
+
+#: admin/options-init.php:263
+msgid "Styling"
+msgstr "Muotoilu"
+
+#: admin/options-init.php:271
+msgid "Modal Styles"
+msgstr "Modaaliset tyylit"
+
+#: admin/options-init.php:272
+msgid "Styles for the wishlist modal."
+msgstr "Muotomainokset moduulille."
+
+#: admin/options-init.php:294
+msgid "Modal Text Color"
+msgstr "Modal tekstin väri"
+
+#: admin/options-init.php:295
+msgid "Text Color of the Modal"
+msgstr "Teksti Väri Modal"
+
+#: admin/options-init.php:302
+msgid "Modal Background Color"
+msgstr "Modaalinen taustaväri"
+
+#: admin/options-init.php:303
+msgid "Background Color of the Modal"
+msgstr "Modalin taustaväri"
+
+#: admin/options-init.php:309
+msgid "Backdrop Styles"
+msgstr "Taustaväylät"
+
+#: admin/options-init.php:310
+msgid "Styles for the modal backdrop."
+msgstr "Modaalisen taustan tyylit."
+
+#: admin/options-init.php:316
+msgid "Background Color"
+msgstr "Taustaväri"
+
+#: admin/options-init.php:343
+msgid "Data to Show"
+msgstr "Tietoja näytettäväksi"
+
+#: admin/options-init.php:358
+msgid "Show Share Buttons"
+msgstr "Näytä jakopainikkeet"
+
+#: admin/options-init.php:371
+msgid "Show Facebook Share"
+msgstr "Näytä Facebook-jako"
+
+#: admin/options-init.php:378
+msgid "Show Twitter Share"
+msgstr "Näytä Twitter-jako"
+
+#: admin/options-init.php:385
+msgid "Show Pinterest Share"
+msgstr "Näytä Pinterest Share"
+
+#: admin/options-init.php:392
+msgid "Show Google Share"
+msgstr "Näytä Google Share"
+
+#: admin/options-init.php:399
+msgid "Show Email Share"
+msgstr "Näytä sähköpostiosuus"
+
+#: admin/class-woocommerce-wishlist-post-type.php:64
+msgid "Wishlists"
+msgstr "toivelista"
+
+#: admin/class-woocommerce-wishlist-post-type.php:68
+#, php-format
+msgid "All %s"
+msgstr "Kaikki %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:70
+#: admin/class-woocommerce-wishlist-post-type.php:73
+#, php-format
+msgid "New %s"
+msgstr "Uusi %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:71
+#, php-format
+msgid "Add New %s"
+msgstr "Lisää uusi %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:72
+#, php-format
+msgid "Edit %s"
+msgstr "Muokkaa %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:74
+#, php-format
+msgid "View %s"
+msgstr "Näytä %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:75
+#, php-format
+msgid "Search %s"
+msgstr "Etsi %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:76
+#, php-format
+msgid "No %s found"
+msgstr "%s löytynyt"
+
+#: admin/class-woocommerce-wishlist-post-type.php:77
+#, php-format
+msgid "No %s found in trash"
+msgstr "%s löytynyt roskakoriin"
+
+#: admin/class-woocommerce-wishlist-post-type.php:120
+msgid "Visibility"
+msgstr "näkyvyys"
+
+#: admin/class-woocommerce-wishlist-post-type.php:188
+msgid " added on "
+msgstr " lisätty "
+
+#: admin/class-woocommerce-wishlist-statistics.php:44
+#: admin/class-woocommerce-wishlist-statistics.php:45
+msgid "Statistics"
+msgstr "tilasto"
+
+#: admin/class-woocommerce-wishlist-statistics.php:62
+msgid "No Wishlists created yet"
+msgstr "Ei toivomusten luetteloa luotu vielä"
+
+#: admin/class-woocommerce-wishlist-statistics.php:114
+msgid "Product"
+msgstr "Tuote"
+
+#: admin/class-woocommerce-wishlist-statistics.php:116
+msgid "Wishlist Count"
+msgstr "Wishlist Count"
+
+#: public/class-woocommerce-wishlist-page.php:79
+#: public/class-woocommerce-wishlist-search.php:79
+msgid "You need to create an account or login to use our wishlist."
+msgstr "Sinun on luotava tili tai kirjaudu käyttämään haluamme."
+
+#: public/class-woocommerce-wishlist-search.php:127
+msgid "By "
+msgstr "mennessä "
+
+#: public/class-woocommerce-wishlist-search.php:128
+msgid " Products"
+msgstr " Tuotteet"
+
+#: public/class-woocommerce-wishlist-search.php:133
+#, php-format
+msgid "%d Wishlists found for %s"
+msgstr "%d Suosikkihaku löytyi %s"
+
+#: public/class-woocommerce-wishlist-search.php:135
+#, php-format
+msgid "No Wishlists found for %s"
+msgstr "%s ei löydy Wishlistista"
+
+#: public/class-woocommerce-wishlist-public.php:144
+#: public/class-woocommerce-wishlist-public.php:219
+#: public/class-woocommerce-wishlist-public.php:234
+msgid "<i class=\"fa fa-heart\"></i> Add to Wishlist"
+msgstr "<i class = \ "fa fa-heart \"> </ i> Lisää toivelistaan"
+
+#: public/class-woocommerce-wishlist-public.php:145
+msgid "<i class=\"fa fa-heart\"></i> Added to Wishlist"
+msgstr "<i class = \ "fa fa-heart \"> </ i> Lisätty toiveiden luetteloon"
+
+#: public/class-woocommerce-wishlist-public.php:146
+msgid "Select a Wishlist"
+msgstr "Valitse toivomuslista"
+
+#: public/class-woocommerce-wishlist-public.php:147
+msgid "Create a new Wishlist"
+msgstr "Luo uusi toivelista"
+
+#: public/class-woocommerce-wishlist-public.php:148
+msgid "Your Wishlist Name"
+msgstr "Nimesi"
+
+#: public/class-woocommerce-wishlist-public.php:149
+#: public/templates/woocommerce-wishlist.php:23
+msgid "Edit Wishlist"
+msgstr "Muokkaa toivelistaa"
+
+#: public/class-woocommerce-wishlist-public.php:150
+#: public/class-woocommerce-wishlist-public.php:461
+#: public/class-woocommerce-wishlist-public.php:483
+msgid "View Wishlist"
+msgstr "Näytä toivelista"
+
+#: public/class-woocommerce-wishlist-public.php:151
+msgid "Public"
+msgstr "Julkinen"
+
+#: public/class-woocommerce-wishlist-public.php:152
+msgid "Shared"
+msgstr "yhteinen"
+
+#: public/class-woocommerce-wishlist-public.php:153
+msgid "Private"
+msgstr "yksityinen"
+
+#: public/class-woocommerce-wishlist-public.php:154
+msgid "Wishlist Deleted"
+msgstr "Wishlist poistettu"
+
+#: public/class-woocommerce-wishlist-public.php:155
+msgid "No products added to your wishlist so far."
+msgstr "Tähän mennessä ei ole lisätty tuotetta."
+
+#: public/class-woocommerce-wishlist-public.php:324
+msgid "No Products found"
+msgstr "Ei löydy tuotteita"
+
+#: public/class-woocommerce-wishlist-public.php:460
+#, php-format
+msgid "Product %s is already on your Wishlist %s!"
+msgstr "Tuote %s on jo lempilistallasi %s !"
+
+#: public/class-woocommerce-wishlist-public.php:482
+#, php-format
+msgid "Product %s has been added to your Wishlist %s."
+msgstr "Tuote %s on lisätty suosikkiluetteloosi %s ."
+
+#: public/class-woocommerce-wishlist-public.php:498
+#, php-format
+msgid "Product %s has been removed from your Wishlist %s."
+msgstr "Tuote %s on poistettu toivomuksesi %s ."
+
+#: public/templates/woocommerce-wishlist-search.php:20
+msgid "Search for Public Wishlists."
+msgstr "Hae julkisia toiveita."
+
+#: public/templates/woocommerce-wishlist.php:17
+msgid "This wishlist is set to private."
+msgstr "Tämä toivelistasi on asetettu yksityiseksi."
+
+#: public/templates/woocommerce-wishlist.php:24
+msgid "Delete Wishlist"
+msgstr "Poista Wishlist"
+
+#: public/templates/woocommerce-wishlist.php:36
+msgid "No products added to this wishlist so far."
+msgstr "Toistaiseksi tähän tuotteeseen ei ole lisätty tuotteita."
+
+#: public/templates/woocommerce-wishlist.php:55
+msgid "Share this Wishlist ..."
+msgstr "Jaa tämä toivelistaan ​​..."
+
+#: public/templates/woocommerce-wishlist-page.php:23
+msgid "Please login to use all wishlist features."
+msgstr "Ole hyvä ja kirjaudu sisään kaikkien haluamiesi ominaisuuksien käyttämiseen."
+
+#: public/templates/woocommerce-wishlist-page.php:28
+msgid "Your Wishlists"
+msgstr "Sinun ostoslistasi"
+
+#: public/templates/woocommerce-wishlist-page.php:51
+msgid "No Wishlists created yet."
+msgstr "Ei toivomusten luetteloa luotu vielä."
+
+#: public/templates/woocommerce-wishlist-page.php:59
+msgid "Create new Wishlist"
+msgstr "Luo uusi toivelistaan"
+
+#: public/templates/woocommerce-wishlist-page.php:64
+msgid "Search Public Wishlists"
+msgstr "Hae julkisia toiveita"
+
+#: public/templates/woocommerce-wishlist-single-item.php:113
+msgid "SKU: "
+msgstr "SKU: "
+
+#. Name of the plugin
+msgid "WooCommerce Wishlist"
+msgstr "WooCommerce Wishlist"
+
+#. Description of the plugin
+msgid "Let your Users create Wishlists"
+msgstr "Anna käyttäjien luoda haluamasi luettelo"
+
+#. URI of the plugin
+msgid "https://plugins.db-dzine.com"
+msgstr "https://plugins.db-dzine.com"
+
+#. Author of the plugin
+msgid "DB-Dzine"
+msgstr "DB-Dzine"
+
+#. Author URI of the plugin
+msgid "http://www.db-dzine.de"
+msgstr "http://www.db-dzine.de"
+

@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Quick View\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-09 11:47+0000\n"
+"PO-Revision-Date: 2018-08-09 11:47+0000\n"
+"Last-Translator: DB-Dzine <contact@db-dzine.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-wishlist.php:88
+msgid ""
+"WooCommerce Wishlist requires the WooCommerce & free Redux Framework plugin. "
+"Please install or activate them!"
+msgstr "WooCommerce Wishlist требует WooCommerce и бесплатный плагин Redux Framework. Пожалуйста, установите или активируйте их!"
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr "Информация"
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr "<p> Нужна поддержка? Пожалуйста, используйте функцию комментария на codecanyon. </ P>"
+
+#: admin/options-init.php:105
+msgid "Image"
+msgstr "Образ"
+
+#: admin/options-init.php:106
+msgid "Title"
+msgstr "заглавие"
+
+#: admin/options-init.php:107
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: admin/options-init.php:108
+msgid "Price"
+msgstr "Цена"
+
+#: admin/options-init.php:109
+msgid "Stock"
+msgstr "Акции"
+
+#: admin/options-init.php:110
+#: admin/class-woocommerce-wishlist-statistics.php:115
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/options-init.php:111
+msgid "Tags"
+msgstr "Теги"
+
+#: admin/options-init.php:112
+msgid "Categories"
+msgstr "категории"
+
+#: admin/options-init.php:113
+msgid "Short Description"
+msgstr "Краткое описание"
+
+#: admin/options-init.php:114
+msgid "Add to Cart"
+msgstr "добавить в корзину"
+
+#: admin/options-init.php:121
+msgid "Description"
+msgstr "Описание"
+
+#: admin/options-init.php:122
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: admin/options-init.php:123
+#: public/templates/woocommerce-wishlist-single-item.php:161
+msgid "Read More"
+msgstr "Прочитайте больше"
+
+#: admin/options-init.php:134 admin/class-woocommerce-wishlist-post-type.php:63
+msgid "Wishlist"
+msgstr "добавить в корзину"
+
+#: admin/options-init.php:136
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "Нужна поддержка? Пожалуйста, используйте функцию комментария на codecanyon."
+
+#: admin/options-init.php:141
+msgid "General"
+msgstr "Генеральная"
+
+#: admin/options-init.php:149
+msgid "Enable"
+msgstr "включить"
+
+#: admin/options-init.php:150
+msgid "Enable Wishlist."
+msgstr "Включить список пожеланий."
+
+#: admin/options-init.php:164
+msgid "Enable Wishlist Search"
+msgstr "Включить поиск в Wishlist"
+
+#: admin/options-init.php:165
+msgid "Enable to search for public Wishlists."
+msgstr "Включить поиск общедоступных списков желаний."
+
+#: admin/options-init.php:180
+msgid "Enable Guest Wishlists"
+msgstr "Включить гостевые списки желаний"
+
+#: admin/options-init.php:181
+msgid ""
+"Not logged in users can create wishlists. They will be saved in a cookie, "
+"but they can not create own wishlists."
+msgstr "Неавторизованные пользователи могут создавать списки желаний. Они будут сохранены в cookie, но они не могут создавать собственные списки желаний."
+
+#: admin/options-init.php:189
+msgid "Button"
+msgstr "кнопка"
+
+#: admin/options-init.php:197
+msgid "Enable Shop Loop Button"
+msgstr "Включить кнопку Loop Shop"
+
+#: admin/options-init.php:203
+msgid "Shop Loop Position"
+msgstr "Позиция магазина"
+
+#: admin/options-init.php:204
+msgid "Specify the positon of the wishlist button in the shop loop."
+msgstr "Укажите позицию кнопки списка желаний в цикле магазина."
+
+#: admin/options-init.php:207
+msgid "before_shop_loop_item"
+msgstr "before_shop_loop_item"
+
+#: admin/options-init.php:208
+msgid "before_shop_loop_item_title"
+msgstr "before_shop_loop_item_title"
+
+#: admin/options-init.php:209
+msgid "shop_loop_item_title"
+msgstr "shop_loop_item_title"
+
+#: admin/options-init.php:210
+msgid "after_shop_loop_item_title"
+msgstr "after_shop_loop_item_title"
+
+#: admin/options-init.php:211
+msgid "after_shop_loop_item"
+msgstr "after_shop_loop_item"
+
+#: admin/options-init.php:218 admin/options-init.php:252
+msgid "Hook Priority"
+msgstr "Приоритет крюка"
+
+#: admin/options-init.php:228
+msgid "Enable Product Page Button"
+msgstr "Включить кнопку страницы продукта"
+
+#: admin/options-init.php:234
+msgid "Single Product Page Position"
+msgstr "Позиция одной товарной страницы"
+
+#: admin/options-init.php:235
+msgid "Specify the positon of the wishlist button on the single product page."
+msgstr "Укажите позицию кнопки списка желаний на странице одного продукта."
+
+#: admin/options-init.php:263
+msgid "Styling"
+msgstr "стайлинг"
+
+#: admin/options-init.php:271
+msgid "Modal Styles"
+msgstr "Модальные стили"
+
+#: admin/options-init.php:272
+msgid "Styles for the wishlist modal."
+msgstr "Стили для списка желаний."
+
+#: admin/options-init.php:294
+msgid "Modal Text Color"
+msgstr "Цвет модального текста"
+
+#: admin/options-init.php:295
+msgid "Text Color of the Modal"
+msgstr "Цвет текста модального"
+
+#: admin/options-init.php:302
+msgid "Modal Background Color"
+msgstr "Модальный цвет фона"
+
+#: admin/options-init.php:303
+msgid "Background Color of the Modal"
+msgstr "Цвет фона модального"
+
+#: admin/options-init.php:309
+msgid "Backdrop Styles"
+msgstr "Стили стиля"
+
+#: admin/options-init.php:310
+msgid "Styles for the modal backdrop."
+msgstr "Стили для модального фона."
+
+#: admin/options-init.php:316
+msgid "Background Color"
+msgstr "Фоновый цвет"
+
+#: admin/options-init.php:343
+msgid "Data to Show"
+msgstr "Данные для показа"
+
+#: admin/options-init.php:358
+msgid "Show Share Buttons"
+msgstr "Показать кнопки Share"
+
+#: admin/options-init.php:371
+msgid "Show Facebook Share"
+msgstr "Показать Facebook Поделиться"
+
+#: admin/options-init.php:378
+msgid "Show Twitter Share"
+msgstr "Показать Twitter"
+
+#: admin/options-init.php:385
+msgid "Show Pinterest Share"
+msgstr "Показать долю Pinterest"
+
+#: admin/options-init.php:392
+msgid "Show Google Share"
+msgstr "Показать Google Share"
+
+#: admin/options-init.php:399
+msgid "Show Email Share"
+msgstr "Показать адрес электронной почты"
+
+#: admin/class-woocommerce-wishlist-post-type.php:64
+msgid "Wishlists"
+msgstr "Списки желаний"
+
+#: admin/class-woocommerce-wishlist-post-type.php:68
+#, php-format
+msgid "All %s"
+msgstr "Все %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:70
+#: admin/class-woocommerce-wishlist-post-type.php:73
+#, php-format
+msgid "New %s"
+msgstr "Новые %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:71
+#, php-format
+msgid "Add New %s"
+msgstr "Добавить новый %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:72
+#, php-format
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:74
+#, php-format
+msgid "View %s"
+msgstr "Просмотреть %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:75
+#, php-format
+msgid "Search %s"
+msgstr "Поиск %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:76
+#, php-format
+msgid "No %s found"
+msgstr "Нет %s найдено"
+
+#: admin/class-woocommerce-wishlist-post-type.php:77
+#, php-format
+msgid "No %s found in trash"
+msgstr "Нет %s найдено в корзине"
+
+#: admin/class-woocommerce-wishlist-post-type.php:120
+msgid "Visibility"
+msgstr "видимость"
+
+#: admin/class-woocommerce-wishlist-post-type.php:188
+msgid " added on "
+msgstr " добавлено "
+
+#: admin/class-woocommerce-wishlist-statistics.php:44
+#: admin/class-woocommerce-wishlist-statistics.php:45
+msgid "Statistics"
+msgstr "Статистика"
+
+#: admin/class-woocommerce-wishlist-statistics.php:62
+msgid "No Wishlists created yet"
+msgstr "Пока нет списков пожеланий"
+
+#: admin/class-woocommerce-wishlist-statistics.php:114
+msgid "Product"
+msgstr "Продукт"
+
+#: admin/class-woocommerce-wishlist-statistics.php:116
+msgid "Wishlist Count"
+msgstr "Список желаний"
+
+#: public/class-woocommerce-wishlist-page.php:79
+#: public/class-woocommerce-wishlist-search.php:79
+msgid "You need to create an account or login to use our wishlist."
+msgstr "Вам необходимо создать учетную запись или войти в систему, чтобы использовать наш список пожеланий."
+
+#: public/class-woocommerce-wishlist-search.php:127
+msgid "By "
+msgstr "От "
+
+#: public/class-woocommerce-wishlist-search.php:128
+msgid " Products"
+msgstr " Продукты"
+
+#: public/class-woocommerce-wishlist-search.php:133
+#, php-format
+msgid "%d Wishlists found for %s"
+msgstr "%d Список желаний найден для %s"
+
+#: public/class-woocommerce-wishlist-search.php:135
+#, php-format
+msgid "No Wishlists found for %s"
+msgstr "Не найдено списков избранного для %s"
+
+#: public/class-woocommerce-wishlist-public.php:144
+#: public/class-woocommerce-wishlist-public.php:219
+#: public/class-woocommerce-wishlist-public.php:234
+msgid "<i class=\"fa fa-heart\"></i> Add to Wishlist"
+msgstr "<i class = \ "fa fa-heart \"> </ i> Добавить в лист пожеланий"
+
+#: public/class-woocommerce-wishlist-public.php:145
+msgid "<i class=\"fa fa-heart\"></i> Added to Wishlist"
+msgstr "<i class = \ "fa fa-heart \"> </ i> Добавлено в список желаний"
+
+#: public/class-woocommerce-wishlist-public.php:146
+msgid "Select a Wishlist"
+msgstr "Выберите список желаний"
+
+#: public/class-woocommerce-wishlist-public.php:147
+msgid "Create a new Wishlist"
+msgstr "Создать новый список желаний"
+
+#: public/class-woocommerce-wishlist-public.php:148
+msgid "Your Wishlist Name"
+msgstr "Ваше имя в WishListе"
+
+#: public/class-woocommerce-wishlist-public.php:149
+#: public/templates/woocommerce-wishlist.php:23
+msgid "Edit Wishlist"
+msgstr "Изменить список желаний"
+
+#: public/class-woocommerce-wishlist-public.php:150
+#: public/class-woocommerce-wishlist-public.php:461
+#: public/class-woocommerce-wishlist-public.php:483
+msgid "View Wishlist"
+msgstr "Просмотреть список пожеланий"
+
+#: public/class-woocommerce-wishlist-public.php:151
+msgid "Public"
+msgstr "общественного"
+
+#: public/class-woocommerce-wishlist-public.php:152
+msgid "Shared"
+msgstr "Общий"
+
+#: public/class-woocommerce-wishlist-public.php:153
+msgid "Private"
+msgstr "Частный"
+
+#: public/class-woocommerce-wishlist-public.php:154
+msgid "Wishlist Deleted"
+msgstr "Список желаний удален"
+
+#: public/class-woocommerce-wishlist-public.php:155
+msgid "No products added to your wishlist so far."
+msgstr "Пока не добавлено продуктов, добавленных в ваш список пожеланий."
+
+#: public/class-woocommerce-wishlist-public.php:324
+msgid "No Products found"
+msgstr "Нет продуктов"
+
+#: public/class-woocommerce-wishlist-public.php:460
+#, php-format
+msgid "Product %s is already on your Wishlist %s!"
+msgstr "Продукт %s уже включен в список пожеланий %s !"
+
+#: public/class-woocommerce-wishlist-public.php:482
+#, php-format
+msgid "Product %s has been added to your Wishlist %s."
+msgstr "Продукт %s добавлен в ваш Wishlist %s ."
+
+#: public/class-woocommerce-wishlist-public.php:498
+#, php-format
+msgid "Product %s has been removed from your Wishlist %s."
+msgstr "Продукт %s удален из списка пожеланий %s ."
+
+#: public/templates/woocommerce-wishlist-search.php:20
+msgid "Search for Public Wishlists."
+msgstr "Поиск публичных списков желаний."
+
+#: public/templates/woocommerce-wishlist.php:17
+msgid "This wishlist is set to private."
+msgstr "Этот список пожеланий настроен как закрытый."
+
+#: public/templates/woocommerce-wishlist.php:24
+msgid "Delete Wishlist"
+msgstr "Удалить список желаний"
+
+#: public/templates/woocommerce-wishlist.php:36
+msgid "No products added to this wishlist so far."
+msgstr "Пока не добавлено продуктов в этот список пожеланий."
+
+#: public/templates/woocommerce-wishlist.php:55
+msgid "Share this Wishlist ..."
+msgstr "Поделиться этим списком желаний ..."
+
+#: public/templates/woocommerce-wishlist-page.php:23
+msgid "Please login to use all wishlist features."
+msgstr "Войдите в систему, чтобы использовать все функции списка желаний."
+
+#: public/templates/woocommerce-wishlist-page.php:28
+msgid "Your Wishlists"
+msgstr "Ваши пожелания"
+
+#: public/templates/woocommerce-wishlist-page.php:51
+msgid "No Wishlists created yet."
+msgstr "Пока нет списков пожеланий."
+
+#: public/templates/woocommerce-wishlist-page.php:59
+msgid "Create new Wishlist"
+msgstr "Создать новый список желаний"
+
+#: public/templates/woocommerce-wishlist-page.php:64
+msgid "Search Public Wishlists"
+msgstr "Поиск в общедоступных списках желаний"
+
+#: public/templates/woocommerce-wishlist-single-item.php:113
+msgid "SKU: "
+msgstr "SKU: "
+
+#. Name of the plugin
+msgid "WooCommerce Wishlist"
+msgstr "Список пожеланий WooCommerce"
+
+#. Description of the plugin
+msgid "Let your Users create Wishlists"
+msgstr "Пусть ваши пользователи создадут списки желаний"
+
+#. URI of the plugin
+msgid "https://plugins.db-dzine.com"
+msgstr "https://plugins.db-dzine.com"
+
+#. Author of the plugin
+msgid "DB-Dzine"
+msgstr "DB-Dzine"
+
+#. Author URI of the plugin
+msgid "http://www.db-dzine.de"
+msgstr "http://www.db-dzine.de"
+

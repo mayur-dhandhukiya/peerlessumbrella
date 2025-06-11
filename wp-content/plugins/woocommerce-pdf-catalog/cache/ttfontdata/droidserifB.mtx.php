@@ -1,0 +1,37 @@
+<?php
+$name='DroidSerif-Bold';
+$type='TTF';
+$desc=array (
+  'CapHeight' => 714.0,
+  'XHeight' => 536.0,
+  'FontBBox' => '[-559 -279 1306 1058]',
+  'Flags' => 262148,
+  'Ascent' => 928.0,
+  'Descent' => -236.0,
+  'Leading' => 0.0,
+  'ItalicAngle' => 0.0,
+  'StemV' => 165.0,
+  'MissingWidth' => 600.0,
+);
+$unitsPerEm=2048;
+$up=-75;
+$ut=50;
+$strp=243;
+$strs=50;
+$ttffile='/sites/dev.welaunch.io/public/plugins/wp-content/plugins/woocommerce-pdf-catalog/fonts//Droid_Serif/DroidSerif-Bold.ttf';
+$TTCfontID='0';
+$originalsize=185228;
+$sip=false;
+$smp=false;
+$BMPselected=false;
+$fontkey='droidserifB';
+$panose=' 2 0 2 2 8 0 6 5 0 2 2 0';
+$haskerninfo=false;
+$haskernGPOS=false;
+$hassmallcapsGSUB=false;
+$fontmetrics='win';
+// TypoAscender/TypoDescender/TypoLineGap = 769, -240, 61
+// usWinAscent/usWinDescent = 928, -236
+// hhea Ascent/Descent/LineGap = 928, -236, 0
+$useOTL=0x0000;
+$rtlPUAstr='';

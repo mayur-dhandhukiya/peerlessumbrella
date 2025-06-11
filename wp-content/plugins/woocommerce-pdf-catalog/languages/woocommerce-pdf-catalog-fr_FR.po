@@ -1,0 +1,2344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PDF Catalog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-18 12:46+0000\n"
+"PO-Revision-Date: 2021-05-18 12:50+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#: admin/options-init.php:204
+msgid "\">register your License here</a>."
+msgstr "\"> enregistrez votre licence ici </a>."
+
+#: admin/options-init.php:1260 admin/options-init.php:2666
+msgid "1/1"
+msgstr "1/1"
+
+#: admin/options-init.php:1261 admin/options-init.php:2667
+msgid "1/2 + 1/2"
+msgstr "1/2 + 1/2"
+
+#: admin/options-init.php:1262 admin/options-init.php:2668
+msgid "1/3 + 1/3 + 1/3"
+msgstr "1/3 + 1/3 + 1/3"
+
+#: public/class-woocommerce-pdf-catalog-public.php:2272
+#, php-format
+msgid "<br><br>This mail was sent to %s"
+msgstr "<br> <br> Ce message a été envoyé à% s"
+
+#: admin/options-init.php:970
+msgid "A value from 0 to 1. Example: 0.2"
+msgstr "Une valeur de 0 à 1. Exemple: 0,2"
+
+#: admin/options-init.php:844
+msgid "A0"
+msgstr "A0"
+
+#: admin/options-init.php:845
+msgid "A1"
+msgstr "A1"
+
+#: admin/options-init.php:852
+msgid "A10"
+msgstr "A10"
+
+#: admin/options-init.php:846
+msgid "A3"
+msgstr "A3"
+
+#: admin/options-init.php:842
+msgid "A4"
+msgstr "A4"
+
+#: admin/options-init.php:843
+msgid "A4 Landscape"
+msgstr "Paysage A4"
+
+#: admin/options-init.php:847
+msgid "A5"
+msgstr "A5"
+
+#: admin/options-init.php:848
+msgid "A6"
+msgstr "A6"
+
+#: admin/options-init.php:849
+msgid "A7"
+msgstr "A7"
+
+#: admin/options-init.php:850
+msgid "A8"
+msgstr "A8"
+
+#: admin/options-init.php:851
+msgid "A9"
+msgstr "A9"
+
+#: admin/options-init.php:926
+msgid "Add a watermark to your catalog."
+msgstr "Ajoutez un filigrane à votre catalogue."
+
+#: admin/options-init.php:2143
+msgid ""
+"Add campaign or custom URL parameters to product linsk from your PDF to "
+"track. Variables you can use: {{productName}}, {{productSKU}}, {{catalogName}"
+"}. Example: ?utm_source=file&utm_medium=PDF&utm_campaign={{catalogName}}"
+"&utm_term={{productName}}"
+msgstr ""
+"Ajoutez des paramètres de campagne ou d'URL personnalisés à la ligne de "
+"produit à partir de votre PDF pour effectuer le suivi. Variables que vous "
+"pouvez utiliser: {{productName}}, {{productSKU}}, {{catalogName}}. Exemple:? "
+"Utm_source = file & utm_medium = PDF & utm_campaign = {{catalogName}} & "
+"utm_term = {{productName}}"
+
+#: admin/options-init.php:1443 admin/options-init.php:1671
+msgid "Add Pagebreak"
+msgstr "Ajouter un saut de page"
+
+#: admin/options-init.php:1444
+msgid "Add pagebreak after each category"
+msgstr "Ajouter un saut de page après chaque catégorie"
+
+#: admin/options-init.php:1672
+msgid "Add pagebreak after each product row."
+msgstr "Ajoutez un saut de page après chaque ligne de produit."
+
+#: admin/options-init.php:1941
+msgid "Add quantity before title when using cart PDF Export."
+msgstr ""
+"Ajoutez la quantité avant le titre lors de l'utilisation du panier PDF "
+"Export."
+
+#: admin/options-init.php:2929
+msgid "Add some custom CSS styles for the PDF document here."
+msgstr "Ajoutez ici des styles CSS personnalisés pour le document PDF."
+
+#: admin/options-init.php:2936
+msgid "Add some javascript for the frontend. JS does not work in PDF files."
+msgstr ""
+"Ajoutez du javascript pour le frontend. JS ne fonctionne pas dans les "
+"fichiers PDF."
+
+#: admin/options-init.php:822
+msgid ""
+"admin.php?"
+"page=woocommerce_pdf_catalog_options_options&regenerate_cached_pdfs=true\" "
+"class=\"button button-primary\">Regenerate Cache</a>\n"
+"                    </div>"
+msgstr ""
+"admin.php? page = woocommerce_pdf_catalog_options_options & "
+"regenerate_cached_pdfs = true \"class =\" button button-primary \"> "
+"Régénérer le cache </a>\n"
+"                    </div>"
+
+#: admin/options-init.php:2891
+msgid "Advanced settings"
+msgstr "Réglages avancés"
+
+#: admin/options-init.php:433
+msgid "After category description"
+msgstr "Après la description de la catégorie"
+
+#: admin/options-init.php:436
+msgid "After Main Content"
+msgstr "Après le contenu principal"
+
+#: admin/options-init.php:499
+msgid "After Products"
+msgstr "Après les produits"
+
+#: admin/options-init.php:435
+msgid "After Shop Loop"
+msgstr "Après la boucle de magasin"
+
+#: admin/options-init.php:500
+msgid "After Wishlist"
+msgstr "Après la liste de souhaits"
+
+#: admin/options-init.php:471
+msgid "after_cart"
+msgstr "after_cart"
+
+#: admin/options-init.php:468
+msgid "after_cart_contents"
+msgstr "after_cart_contents"
+
+#: admin/options-init.php:469
+msgid "after_cart_table"
+msgstr "after_cart_table"
+
+#: admin/options-init.php:285
+msgid ""
+"All products will show in one category only and displayed next to each other."
+msgstr ""
+"Tous les produits s'affichent dans une seule catégorie et s'affichent les "
+"uns à côté des autres."
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:886
+#: public/div/class-woocommerce-pdf-catalog-product-templates.php:601
+#: public/table/class-woocommerce-pdf-catalog-product-templates.php:605
+#, php-format
+msgid "Any %s"
+msgstr "Tout% s"
+
+#: admin/options-init.php:340
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: admin/options-init.php:2059
+msgid "Attribute Image Width (px)"
+msgstr "Largeur de l'image d'attribut (px)"
+
+#: admin/options-init.php:2051
+msgid "Attribute images"
+msgstr "Images d'attributs"
+
+#: public/class-woocommerce-pdf-catalog-products-templates.php:502
+#: public/class-woocommerce-pdf-catalog-products-templates.php:615
+#: public/class-woocommerce-pdf-catalog-products-templates.php:663
+msgid "Attributes"
+msgstr "Les attributs"
+
+#: admin/options-init.php:352
+msgid "Author"
+msgstr "Auteur"
+
+#: admin/options-init.php:1314 admin/options-init.php:1351
+#: admin/options-init.php:1388 admin/options-init.php:2720
+#: admin/options-init.php:2757 admin/options-init.php:2793
+msgid "Back to Table of Contents"
+msgstr "Retour à la table des matières"
+
+#: admin/options-init.php:918
+msgid "Back to Table of Contents Text"
+msgstr "Retour à la table des matières Texte"
+
+#: admin/options-init.php:917
+msgid "Back to ToC Text"
+msgstr "Retour au texte de la ToC"
+
+#: admin/options-init.php:2819
+msgid "Backcover"
+msgstr "Quatrième de couverture"
+
+#: admin/options-init.php:2834
+msgid "Backcover image"
+msgstr "Image de couverture arrière"
+
+#: admin/options-init.php:1710
+msgid "Background color"
+msgstr "Couleur de l'arrière plan"
+
+#: public/class-woocommerce-pdf-catalog-products-templates.php:523
+#: public/class-woocommerce-pdf-catalog-products-templates.php:636
+#: public/class-woocommerce-pdf-catalog-products-templates.php:684
+msgid "Barcode"
+msgstr "code à barre"
+
+#: admin/options-init.php:2231
+msgid "Barcode Size"
+msgstr "Taille du code à barres"
+
+#: admin/options-init.php:2170
+msgid "Barcode Type"
+msgstr "Type de code à barres"
+
+#: admin/options-init.php:432
+msgid "Before Main Content"
+msgstr "Avant le contenu principal"
+
+#: admin/options-init.php:498
+msgid "Before Products"
+msgstr "Avant les produits"
+
+#: admin/options-init.php:434
+msgid "Before Shop Loop"
+msgstr "Avant la boucle de magasin"
+
+#: admin/options-init.php:497
+msgid "Before Wishlist"
+msgstr "Avant la liste de souhaits"
+
+#: admin/options-init.php:463
+msgid "before_cart"
+msgstr "before_cart"
+
+#: admin/options-init.php:465
+msgid "before_cart_contents"
+msgstr "before_cart_contents"
+
+#: admin/options-init.php:464
+msgid "before_cart_table"
+msgstr "before_cart_table"
+
+#: admin/options-init.php:1307 admin/options-init.php:1344
+#: admin/options-init.php:1381 admin/options-init.php:2713
+#: admin/options-init.php:2750 admin/options-init.php:2786
+msgid "Blog information"
+msgstr "Informations sur le blog"
+
+#: admin/options-init.php:1743
+msgid "Bottom Border"
+msgstr "Bordure inférieure"
+
+#: admin/options-init.php:373
+msgid "Buttons"
+msgstr "Boutons"
+
+#: admin/options-init.php:453
+#: public/div/class-woocommerce-pdf-catalog-public.php:266
+#: public/table/class-woocommerce-pdf-catalog-public.php:266
+msgid "Cart Catalog (PDF)"
+msgstr "Catalogue du panier (PDF)"
+
+#: admin/options-init.php:459
+msgid "Cart Link position"
+msgstr "Position du lien du panier"
+
+#: admin/options-init.php:451
+msgid "Cart PDF Button Text"
+msgstr "Texte du bouton PDF du panier"
+
+#: admin/options-init.php:444
+msgid "Cart PDF Export Link"
+msgstr "Lien d'exportation PDF du panier"
+
+#: admin/options-init.php:467
+msgid "cart_actions"
+msgstr "cart_actions"
+
+#: admin/options-init.php:470
+msgid "cart_collaterals"
+msgstr "cart_collaterals"
+
+#: admin/options-init.php:466
+msgid "cart_contents"
+msgstr "cart_contents"
+
+#: public/class-woocommerce-pdf-catalog-public.php:409
+msgid "Catalog PDF"
+msgstr "Catalogue PDF"
+
+#: public/class-woocommerce-pdf-catalog-products-templates.php:514
+#: public/class-woocommerce-pdf-catalog-products-templates.php:627
+#: public/class-woocommerce-pdf-catalog-products-templates.php:675
+msgid "Categories"
+msgstr "Catégories"
+
+#: admin/options-init.php:1310 admin/options-init.php:1347
+#: admin/options-init.php:1384 admin/options-init.php:2716
+#: admin/options-init.php:2753 admin/options-init.php:2789
+msgid "Category"
+msgstr "Catégorie"
+
+#: admin/options-init.php:408
+#: public/div/class-woocommerce-pdf-catalog-public.php:244
+#: public/table/class-woocommerce-pdf-catalog-public.php:244
+msgid "Category Catalog (PDF)"
+msgstr "Catalogue de catégories (PDF)"
+
+#: admin/options-init.php:1494
+msgid "Category image"
+msgstr "Image de la catégorie"
+
+#: admin/options-init.php:1479
+msgid "Category Information Container Padding"
+msgstr "Information sur la catégorie Rembourrage du conteneur"
+
+#: admin/options-init.php:1415
+msgid "Category Layout"
+msgstr "Disposition des catégories"
+
+#: public/class-woocommerce-pdf-catalog-public.php:2293
+msgid "Category missing."
+msgstr "Catégorie manquante."
+
+#: admin/options-init.php:1462
+msgid "Category Padding"
+msgstr "Rembourrage de catégorie"
+
+#: admin/options-init.php:406
+msgid "Category PDF Button Text"
+msgstr "Texte du bouton PDF de la catégorie"
+
+#: admin/options-init.php:399
+msgid "Category PDF Link"
+msgstr "Lien PDF de la catégorie"
+
+#: admin/options-init.php:2109
+msgid "Category Plural Text"
+msgstr "Catégorie Texte au pluriel"
+
+#: admin/options-init.php:2102
+msgid "Category Single Text"
+msgstr "Catégorie Texte unique"
+
+#: admin/options-init.php:1591
+msgid "Category text color"
+msgstr "Couleur du texte de la catégorie"
+
+#: admin/options-init.php:1581 admin/options-init.php:1833
+#: admin/options-init.php:2414 admin/options-init.php:2458
+msgid "Center"
+msgstr "Centre"
+
+#: admin/options-init.php:840
+msgid "Choose a pre-defined page size. A4 is recommended!"
+msgstr "Choisissez une taille de page prédéfinie. A4 est recommandé!"
+
+#: admin/class-woocommerce-pdf-catalog-attributes.php:164
+#: admin/class-woocommerce-pdf-catalog-attributes.php:304
+msgid "Choose an image"
+msgstr "Choisissez une image"
+
+#: admin/options-init.php:864
+msgid "Choose landscape or portrait. Portrait recommended!"
+msgstr "Choisissez paysage ou portrait. Portrait recommandé!"
+
+#: admin/options-init.php:1463 admin/options-init.php:1682
+msgid "Choose the padding you want."
+msgstr "Choisissez le rembourrage souhaité."
+
+#: admin/options-init.php:460
+msgid "Choose the position of the button on the cart page."
+msgstr "Choisissez la position du bouton sur la page du panier."
+
+#: admin/options-init.php:430
+msgid "Choose the position of the button on the category page."
+msgstr "Choisissez la position du bouton sur la page des catégories."
+
+#: admin/options-init.php:494
+msgid "Choose the position of the button on the Wishlist page."
+msgstr "Choisissez la position du bouton sur la page Liste de souhaits."
+
+#: admin/options-init.php:1147 admin/options-init.php:1291
+#: admin/options-init.php:2551 admin/options-init.php:2697
+msgid "Choose the spacing or padding you want."
+msgstr "Choisissez l'espacement ou le remplissage souhaité."
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:759
+#: public/class-woocommerce-pdf-catalog-product-templates.php:822
+msgid "Comment"
+msgstr "Commenter"
+
+#: admin/options-init.php:359
+msgid "comment_count"
+msgstr "compteur de commentaire"
+
+#: public/class-woocommerce-pdf-catalog-public.php:1634
+#: public/div/class-woocommerce-pdf-catalog-public.php:1244
+#: public/table/class-woocommerce-pdf-catalog-public.php:1118
+msgid "Complete Catalog"
+msgstr "Catalogue complet"
+
+#: admin/options-init.php:391
+#: public/div/class-woocommerce-pdf-catalog-public.php:240
+#: public/table/class-woocommerce-pdf-catalog-public.php:240
+msgid "Complete Catalog (PDF)"
+msgstr "Catalogue complet (PDF)"
+
+#: admin/options-init.php:242
+msgid "Configure how products are sorted."
+msgstr "Configurez le tri des produits."
+
+#: admin/options-init.php:374
+msgid ""
+"Configure what and where the export buttons should appear. If no hook "
+"position work use our shortcodes or contact your theme developer: "
+"[pdf_catalog category=\"full OR category ID\" text=\"Export PDF\"]"
+msgstr ""
+"Configurez quoi et où les boutons d'exportation doivent apparaître. Si "
+"aucune position de crochet ne fonctionne, utilisez nos codes courts ou "
+"contactez votre développeur de thème: [pdf_catalog category = \"full OR "
+"category ID\" text = \"Export PDF\"]"
+
+#: admin/options-init.php:1627
+msgid "Container Height"
+msgstr "Hauteur du conteneur"
+
+#: admin/options-init.php:1654
+msgid "Content Width (%)"
+msgstr "Largeur du contenu (%)"
+
+#: admin/options-init.php:276
+msgid "Count"
+msgstr "Compter"
+
+#: admin/options-init.php:993
+msgid "Cover image"
+msgstr "Image de couverture"
+
+#: admin/options-init.php:978
+msgid "Cover Page"
+msgstr "Page de Couverture"
+
+#: admin/options-init.php:2291
+msgid "Create a new row after X variation tables"
+msgstr "Créer une nouvelle ligne après les tables de variantes X"
+
+#: admin/options-init.php:2281
+msgid "Create a new table after X variations"
+msgstr "Créer une nouvelle table après X variations"
+
+#. Description of the plugin
+msgid "Create a PDF-Catalog of your WooCommerce Shop"
+msgstr "Créez un catalogue PDF de votre boutique WooCommerce"
+
+#: admin/options-init.php:2005
+msgid "Create Excerpt of Description"
+msgstr "Créer un extrait de description"
+
+#: admin/options-init.php:1967
+msgid "Create Excerpt of Short Description"
+msgstr "Créer un extrait de description courte"
+
+#: admin/class-woocommerce-pdf-catalog-attributes.php:130
+#: admin/class-woocommerce-pdf-catalog-attributes.php:264
+msgid "Custom Cover"
+msgstr "Couverture personnalisée"
+
+#: admin/class-woocommerce-pdf-catalog-admin.php:198
+msgid "Custom Cover Image "
+msgstr "Image de couverture personnalisée"
+
+#: admin/options-init.php:2928
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: admin/class-woocommerce-pdf-catalog-attributes.php:124
+msgid "Custom Footer Left"
+msgstr "Pied de page personnalisé à gauche"
+
+#: admin/class-woocommerce-pdf-catalog-attributes.php:119
+msgid "Custom Header Left"
+msgstr "En-tête personnalisé à gauche"
+
+#: admin/options-init.php:2935
+msgid "Custom JS"
+msgstr "JS personnalisé"
+
+#: admin/options-init.php:264
+msgid "Custom override the sorting of categories."
+msgstr "La personnalisation remplace le tri des catégories."
+
+#: admin/options-init.php:2364
+msgid "Custom Post Fields"
+msgstr "Champs de publication personnalisés"
+
+#: admin/options-init.php:2892
+msgid "Custom stylesheet / javascript."
+msgstr "Feuille de style personnalisée / javascript."
+
+#: admin/options-init.php:1308 admin/options-init.php:1345
+#: admin/options-init.php:1382 admin/options-init.php:2714
+#: admin/options-init.php:2751 admin/options-init.php:2787
+msgid "Custom text"
+msgstr "Texte personnalisé"
+
+#: admin/options-init.php:1849
+msgid "Data to show"
+msgstr "Données à afficher"
+
+#: admin/options-init.php:355
+msgid "Date"
+msgstr "Date"
+
+#: admin/options-init.php:571
+msgid "Default BCC Address  (split by comma if multiple)."
+msgstr "Adresse Cci par défaut (divisée par une virgule si elle est multiple)."
+
+#: admin/options-init.php:563
+msgid "Default CC Address (split by comma if multiple)."
+msgstr "Adresse CC par défaut (divisée par une virgule si elle est multiple)."
+
+#: admin/options-init.php:874 admin/options-init.php:1160
+#: admin/options-init.php:2564
+msgid "Default Font"
+msgstr "Police par défaut"
+
+#: admin/options-init.php:899
+msgid "Default Font size"
+msgstr "Taille de police par défaut"
+
+#: admin/options-init.php:908
+msgid "Default line height"
+msgstr "Hauteur de ligne par défaut"
+
+#: admin/options-init.php:641
+msgid "Default Text."
+msgstr "Texte par défaut."
+
+#: admin/options-init.php:531
+msgid "Default to address (split by comma if multiple)."
+msgstr "Adresse par défaut (divisée par une virgule si elle est multiple)."
+
+#: admin/options-init.php:832
+msgid "Defaults"
+msgstr "Valeurs par défaut"
+
+#: admin/options-init.php:2494
+msgid ""
+"Defines whether to divide index entries starting with the same letter, using "
+"a (large) letter as a heading."
+msgstr ""
+"Définit s'il faut diviser les entrées d'index en commençant par la même "
+"lettre, en utilisant une (grande) lettre comme en-tête."
+
+#: admin/options-init.php:2920
+msgid "DEPRECATED: Use Tables instead of DIVs"
+msgstr "DEPRECATED: utilisez des tables au lieu de DIVs"
+
+#: admin/options-init.php:339
+msgid "Descending"
+msgstr "Descendant"
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:739
+#: public/class-woocommerce-pdf-catalog-product-templates.php:802
+#: public/class-woocommerce-pdf-catalog-products-templates.php:499
+#: public/class-woocommerce-pdf-catalog-products-templates.php:612
+#: public/class-woocommerce-pdf-catalog-products-templates.php:660
+msgid "Description"
+msgstr "La description"
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:1014
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: admin/options-init.php:760
+msgid "Disable Substitutions"
+msgstr "Désactiver les substitutions"
+
+#: admin/options-init.php:768
+msgid ""
+"Disables complex table borders etc. to improve performance. <a "
+"target=\"_blank\" href=\"https://mpdf.github.io/reference/mpdf-"
+"variables/simpletables.html\">Read more here</a>"
+msgstr ""
+"Désactive les bordures de table complexes, etc. pour améliorer les "
+"performances. <a target=\"_blank\" href=\"https://mpdf.github."
+"io/reference/mpdf-variables/simpletables.html\">En savoir plus ici</a>"
+
+#: admin/options-init.php:2921
+msgid ""
+"DIVs are better for custom styling, but DIVs float over pages sometimes. "
+"Below Verson 1.5.8 we used tables only."
+msgstr ""
+"Les DIV sont meilleurs pour le style personnalisé, mais les DIV flottent "
+"parfois sur les pages. Sous Verson 1.5.8, nous n'avons utilisé que des "
+"tableaux."
+
+#: admin/options-init.php:879 admin/options-init.php:1165
+#: admin/options-init.php:1537 admin/options-init.php:1792
+#: admin/options-init.php:2569
+msgid "Droid Sans"
+msgstr "Droid Sans"
+
+#: admin/options-init.php:880 admin/options-init.php:1166
+#: admin/options-init.php:1538 admin/options-init.php:1793
+#: admin/options-init.php:2570
+msgid "Droid Serif"
+msgstr "Droid Serif"
+
+#: admin/options-init.php:330
+msgid ""
+"E.g. if Hoodie is assigned to Hoodies category, but not in Clothing, it can "
+"show in both. Disable this to show the Hoodie only in Hoodies."
+msgstr ""
+"Par exemple. si Hoodie est attribué à la catégorie Hoodies, mais pas dans "
+"Clothing, il peut apparaître dans les deux. Désactivez cette option pour "
+"afficher le sweat à capuche uniquement dans les sweats à capuche."
+
+#: admin/options-init.php:570
+msgid "Email BCC"
+msgstr "Courriel BCC"
+
+#: admin/options-init.php:522
+msgid "Email Button Text"
+msgstr "Texte du bouton e-mail"
+
+#: admin/options-init.php:620
+msgid "Email Category Label"
+msgstr "Étiquette de catégorie d'e-mail"
+
+#: admin/options-init.php:628
+msgid "Email Category Placeholder"
+msgstr "Espace réservé de catégorie d'e-mail"
+
+#: admin/options-init.php:562
+msgid "Email Default CC"
+msgstr "Courriel par défaut CC"
+
+#: admin/options-init.php:640
+msgid "Email Default Text"
+msgstr "Texte par défaut de l'e-mail"
+
+#: admin/options-init.php:530
+msgid "Email Default To"
+msgstr "E-mail par défaut à"
+
+#: public/class-woocommerce-pdf-catalog-public.php:2310
+msgid "Email not sent."
+msgstr "E-mail non envoyé."
+
+#: admin/options-init.php:673
+msgid "Email Send Button Text"
+msgstr "Texte du bouton d'envoi par e-mail"
+
+#: public/class-woocommerce-pdf-catalog-public.php:2308
+msgid "Email sent."
+msgstr "Email envoyé."
+
+#: admin/options-init.php:554
+msgid "Email Subject"
+msgstr "Sujet du courriel"
+
+#: admin/options-init.php:681
+msgid "Email Success Text"
+msgstr "Texte de réussite de l'e-mail"
+
+#: admin/options-init.php:656
+msgid "Email Text Label"
+msgstr "Étiquette de texte de l'e-mail"
+
+#: admin/options-init.php:664
+msgid "Email Text Placeholder"
+msgstr "Espace réservé au texte de l'e-mail"
+
+#: admin/options-init.php:648
+msgid "Email Text Show in Frontend"
+msgstr "Afficher le texte de l'e-mail dans le frontend"
+
+#: admin/options-init.php:538
+msgid "Email To Label"
+msgstr "Envoyer un e-mail à l'étiquette"
+
+#: admin/options-init.php:546
+msgid "Email To Placeholder"
+msgstr "Envoyer un e-mail à l'espace réservé"
+
+#: admin/options-init.php:612
+msgid "Email Type Hide when one option"
+msgstr "Type d'e-mail Masquer lorsqu'une option"
+
+#: admin/options-init.php:579
+msgid "Email Type Label"
+msgstr "Étiquette de type d'e-mail"
+
+#: admin/options-init.php:587
+msgid "Email Type Placeholder"
+msgstr "Espace réservé de type d'e-mail"
+
+#: public/class-woocommerce-pdf-catalog-public.php:2267
+msgid "Empty to, type or text."
+msgstr "Vide à, tapez ou texte."
+
+#: admin/options-init.php:211 admin/options-init.php:985
+#: admin/options-init.php:1050 admin/options-init.php:1214
+#: admin/options-init.php:1422 admin/options-init.php:2475
+#: admin/options-init.php:2619 admin/options-init.php:2826
+#: admin/options-init.php:2875
+msgid "Enable"
+msgstr "Activer"
+
+#: admin/options-init.php:218
+msgid "Enable Attribute PDF Catalogs"
+msgstr "Activer les catalogues PDF d'attributs"
+
+#: admin/options-init.php:788
+msgid "Enable Cache"
+msgstr "Activer le cache"
+
+#: admin/options-init.php:2899
+msgid "Enable Debug Mode"
+msgstr "Activer le mode de débogage"
+
+#: admin/options-init.php:515
+msgid "Enable Email Sending"
+msgstr "Activer l'envoi d'e-mails"
+
+#: admin/options-init.php:256
+msgid "Enable Filtering"
+msgstr "Activer le filtrage"
+
+#: admin/options-init.php:2620
+msgid "Enable footer"
+msgstr "Activer le pied de page"
+
+#: admin/options-init.php:1215
+msgid "Enable header"
+msgstr "Activer l'en-tête"
+
+#: admin/options-init.php:2476
+msgid "Enable Index at the end of page."
+msgstr "Activez l'index en fin de page."
+
+#: admin/options-init.php:2493
+msgid "Enable Letter Dividing"
+msgstr "Activer la division des lettres"
+
+#: admin/options-init.php:1065 admin/options-init.php:2501
+msgid "Enable Linking"
+msgstr "Activer la liaison"
+
+#: admin/options-init.php:1057
+msgid "Enable Paging"
+msgstr "Activer la pagination"
+
+#: admin/options-init.php:212
+msgid "Enable PDF Catalog to use the options below"
+msgstr "Activez le catalogue PDF pour utiliser les options ci-dessous"
+
+#: admin/options-init.php:225
+msgid "Enable Single Variations Support"
+msgstr "Activer la prise en charge des variantes uniques"
+
+#: admin/options-init.php:2052
+msgid ""
+"Enable support for our <a href=\"https://www.welaunch."
+"io/en/product/woocommerce-attribute-images/\" target=\"_blank\">attribute "
+"images plugin</a> to display attributes as images."
+msgstr ""
+"Activez la prise en charge de notre <a href=\"https://www.welaunch."
+"io/en/product/woocommerce-attribute-images/\" target=\"_blank\">plugin d&#39;"
+"images d&#39;attributs</a> pour afficher les attributs sous forme d&#39;"
+"images."
+
+#: admin/options-init.php:1051
+msgid "Enable Table of Contents page"
+msgstr "Activer la page de la table des matières"
+
+#: admin/options-init.php:2423
+msgid "Enable Text After Products"
+msgstr "Activer le texte après les produits"
+
+#: admin/options-init.php:2379
+msgid "Enable Text Before Products"
+msgstr "Activer le texte avant les produits"
+
+#: admin/options-init.php:2827
+msgid "Enable the Backcover Page"
+msgstr "Activer la page de couverture arrière"
+
+#: admin/options-init.php:986
+msgid "Enable the Cover Page"
+msgstr "Activer la page de garde"
+
+#: admin/options-init.php:2876
+msgid "Enable the limit access. This will activate the below settings."
+msgstr "Activez l'accès limité. Cela activera les paramètres ci-dessous."
+
+#: admin/options-init.php:933
+msgid "Enable Watermark"
+msgstr "Activer le filigrane"
+
+#: admin/options-init.php:807
+msgid "Enter your Password"
+msgstr "Tapez votre mot de passe"
+
+#: admin/options-init.php:806
+msgid "Enter your Username"
+msgstr "Entrez votre nom d'utilisateur"
+
+#: admin/options-init.php:962
+msgid "Enter your watermark text here."
+msgstr "Entrez votre texte de filigrane ici."
+
+#: admin/options-init.php:1974 admin/options-init.php:2012
+msgid "Excerpt Length"
+msgstr "Longueur de l'extrait"
+
+#: admin/options-init.php:745
+msgid "Exclude out of stock products"
+msgstr "Exclure les produits en rupture de stock"
+
+#: admin/options-init.php:321
+msgid "Exclude Parent Category Products"
+msgstr "Exclure les produits de la catégorie parent"
+
+#: admin/options-init.php:704
+msgid "Exclude Product Categories"
+msgstr "Exclure les catégories de produits"
+
+#: admin/options-init.php:733
+msgid "Exclude Products"
+msgstr "Exclure les produits"
+
+#: admin/options-init.php:720
+msgid "Exclude Products of the following categories"
+msgstr "Exclure les produits des catégories suivantes"
+
+#: admin/options-init.php:692
+msgid "Exclusion"
+msgstr "Exclusion"
+
+#: admin/options-init.php:855
+msgid "Executive"
+msgstr "Exécutif"
+
+#: admin/options-init.php:1312 admin/options-init.php:1349
+#: admin/options-init.php:1386 admin/options-init.php:2718
+#: admin/options-init.php:2755 admin/options-init.php:2791
+msgid "Export Information"
+msgstr "Exporter les informations"
+
+#: admin/options-init.php:487
+msgid "Export Wishlist as PDF"
+msgstr "Exporter la liste de souhaits au format PDF"
+
+#: admin/options-init.php:2372
+msgid "Extra Texts"
+msgstr "Textes supplémentaires"
+
+#: admin/options-init.php:1114
+msgid "First Page"
+msgstr "Première page"
+
+#: admin/options-init.php:284
+msgid "Flatten products"
+msgstr "Aplatir les produits"
+
+#: admin/options-init.php:291
+msgid "Flatten Products - Remove Duplicates"
+msgstr "Aplatir les produits - Supprimer les doublons"
+
+#: admin/options-init.php:2157
+msgid "Float value (e.g. 0.6 or 1.5). Default is 0.8."
+msgstr ""
+"Valeur flottante (par exemple 0,6 ou 1,5). La valeur par défaut est 0,8."
+
+#: admin/options-init.php:2232
+msgid "Float value (e.g. 0.6 or 1.5). Default is 1."
+msgstr "Valeur flottante (par exemple 0,6 ou 1,5). La valeur par défaut est 1."
+
+#: admin/options-init.php:856
+msgid "Folio"
+msgstr "Folio"
+
+#: admin/options-init.php:2611
+msgid "Footer"
+msgstr "Bas de page"
+
+#: admin/options-init.php:2626
+msgid "Footer background color"
+msgstr "Couleur de fond du bas de page"
+
+#: admin/options-init.php:2684
+msgid "Footer Height"
+msgstr "Hauteur du pied de page"
+
+#: admin/options-init.php:2663
+msgid "Footer Layout"
+msgstr "Disposition du pied de page"
+
+#: admin/class-woocommerce-pdf-catalog-attributes.php:254
+msgid "Footer Left"
+msgstr "Pied de page gauche"
+
+#: admin/options-init.php:2675
+msgid "Footer Margin"
+msgstr "Marge de pied de page"
+
+#: admin/options-init.php:2696
+msgid "Footer Padding"
+msgstr "Rembourrage du pied de page"
+
+#: admin/options-init.php:2635
+msgid "Footer text color"
+msgstr "Couleur du texte du pied de page"
+
+#: admin/options-init.php:839
+msgid "Format"
+msgstr "Format"
+
+#: admin/options-init.php:219
+msgid ""
+"From wp-admin > attributes > values you can generate custom Attribute Value "
+"PDF catalogs."
+msgstr ""
+"À partir de wp-admin> attributs> valeurs, vous pouvez générer des catalogues "
+"PDF de valeur d'attribut personnalisés."
+
+#: admin/options-init.php:1025 admin/options-init.php:1073
+#: admin/options-init.php:2509
+msgid "Full catalog only"
+msgstr "Catalogue complet uniquement"
+
+#: admin/options-init.php:389
+msgid "Full PDF Button Text"
+msgstr "Texte du bouton PDF complet"
+
+#: admin/options-init.php:249 admin/options-init.php:382
+msgid "Full PDF Catalog Link"
+msgstr "Lien vers le catalogue PDF complet"
+
+#: admin/options-init.php:1911
+msgid "Gallery Image Column"
+msgstr "Colonne d'image de la galerie"
+
+#: admin/options-init.php:1893
+msgid "Gallery Image size"
+msgstr "Taille de l'image de la galerie"
+
+#: admin/options-init.php:1903
+msgid "Gallery Image Size Type"
+msgstr "Type de taille d'image de la galerie"
+
+#: admin/options-init.php:203
+msgid "General"
+msgstr "Général"
+
+#: admin/options-init.php:1207
+msgid "Header"
+msgstr "Entête"
+
+#: admin/options-init.php:1221
+msgid "Header background color"
+msgstr "Couleur d'arrière-plan de l'en-tête"
+
+#: admin/options-init.php:1278
+msgid "Header Height"
+msgstr "Hauteur d'en-tête"
+
+#: admin/options-init.php:1257
+msgid "Header Layout"
+msgstr "Disposition de l'en-tête"
+
+#: admin/class-woocommerce-pdf-catalog-attributes.php:245
+msgid "Header Left"
+msgstr "En-tête gauche"
+
+#: admin/options-init.php:1269
+msgid "Header Margin"
+msgstr "Marge d'en-tête"
+
+#: admin/options-init.php:1290
+msgid "Header Padding"
+msgstr "Rembourrage d'en-tête"
+
+#: admin/options-init.php:1229
+msgid "Header text color"
+msgstr "Couleur du texte de l'en-tête"
+
+#: admin/options-init.php:1522
+msgid "Heading font size"
+msgstr "Taille de la police de l'en-tête"
+
+#: admin/options-init.php:1778
+msgid "Heading line height"
+msgstr "Hauteur de la ligne de titre"
+
+#: admin/options-init.php:1532 admin/options-init.php:1787
+msgid "Headings Font"
+msgstr "Police des titres"
+
+#: admin/options-init.php:1769
+msgid "Headings font size"
+msgstr "Taille de la police des titres"
+
+#: admin/options-init.php:1451
+msgid "Hide Description"
+msgstr "Masquer la description"
+
+#: admin/options-init.php:322
+msgid "Hide products from the parent category."
+msgstr "Masquer les produits de la catégorie parente."
+
+#: admin/options-init.php:1452
+msgid "Hide the category Description"
+msgstr "Masquer la catégorie Description"
+
+#: admin/options-init.php:613
+msgid "Hide the select field when there is only one enabled option."
+msgstr ""
+"Masquez le champ de sélection lorsqu'il n'y a qu'une seule option activée."
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"
+
+#. URI of the plugin
+msgid "https://www.welaunch.io/en/product/woocommerce-pdf-catalog/"
+msgstr "https://www.welaunch.io/en/product/woocommerce-pdf-catalog/"
+
+#: admin/options-init.php:351
+msgid "ID"
+msgstr "identifiant"
+
+#: admin/options-init.php:2030
+msgid "If empy ALL attributes will show."
+msgstr "Si empy, TOUS les attributs s'affichent."
+
+#: admin/options-init.php:943 admin/options-init.php:1311
+#: admin/options-init.php:1348 admin/options-init.php:1385
+#: admin/options-init.php:2717 admin/options-init.php:2754
+#: admin/options-init.php:2790
+#: public/class-woocommerce-pdf-catalog-product-templates.php:731
+#: public/class-woocommerce-pdf-catalog-product-templates.php:794
+#: public/class-woocommerce-pdf-catalog-products-templates.php:487
+#: public/class-woocommerce-pdf-catalog-products-templates.php:600
+#: public/class-woocommerce-pdf-catalog-products-templates.php:648
+#: public/div/class-woocommerce-pdf-catalog-product-templates.php:462
+#: public/div/class-woocommerce-pdf-catalog-product-templates.php:517
+#: public/table/class-woocommerce-pdf-catalog-product-templates.php:470
+#: public/table/class-woocommerce-pdf-catalog-product-templates.php:525
+msgid "Image"
+msgstr "Image"
+
+#: admin/options-init.php:1504 admin/options-init.php:1862
+msgid "Image size"
+msgstr "Taille de l'image"
+
+#: admin/options-init.php:1514 admin/options-init.php:1872
+msgid "Image Size Type"
+msgstr "Type de taille d'image"
+
+#: admin/options-init.php:1637
+msgid "Image Width (%)"
+msgstr "Largeur de l'image (%)"
+
+#: admin/options-init.php:1628
+msgid "Important to avoid page overflows."
+msgstr "Important pour éviter les débordements de page."
+
+#: admin/options-init.php:437
+msgid "In WooCommerce Sidebar"
+msgstr "Dans la barre latérale WooCommerce"
+
+#: admin/options-init.php:329
+msgid "Include Children Products"
+msgstr "Inclure les produits pour enfants"
+
+#: admin/options-init.php:1921
+msgid "Include Feature image in Gallery"
+msgstr "Inclure l'image de la vedette dans la galerie"
+
+#: admin/options-init.php:2468
+msgid "Index"
+msgstr "Indice"
+
+#: admin/options-init.php:2517
+msgid "Index Columns"
+msgstr "Colonnes d'index"
+
+#: admin/options-init.php:2482
+msgid "Index Key"
+msgstr "Clé d'index"
+
+#: admin/options-init.php:711 admin/options-init.php:740
+msgid "Instead of exclusion it will include."
+msgstr "Au lieu d'exclusion, il inclura."
+
+#: admin/options-init.php:158
+msgid "Is ACF Field?"
+msgstr "Est ACF Field?"
+
+#: admin/options-init.php:867
+msgid "L"
+msgstr "L"
+
+#: admin/options-init.php:621
+msgid "Label for category select field."
+msgstr "Libellé du champ de sélection de catégorie."
+
+#: admin/options-init.php:657
+msgid "Label for text field."
+msgstr "Libellé du champ de texte."
+
+#: admin/options-init.php:539
+msgid "Label for to field."
+msgstr "Étiquette pour le champ."
+
+#: admin/options-init.php:580
+msgid "Label for type select field."
+msgstr "Libellé du champ de sélection de type."
+
+#: admin/options-init.php:356
+msgid "Last modified date"
+msgstr "Date de la dernière modification"
+
+#: admin/options-init.php:1115
+msgid "Last Page"
+msgstr "Dernière page"
+
+#: admin/options-init.php:881 admin/options-init.php:1167
+#: admin/options-init.php:1539 admin/options-init.php:1794
+#: admin/options-init.php:2571
+msgid "Lato"
+msgstr "Lato"
+
+#: admin/options-init.php:1580 admin/options-init.php:1832
+#: admin/options-init.php:2413 admin/options-init.php:2457
+msgid "Left"
+msgstr "La gauche"
+
+#: admin/options-init.php:1756
+msgid "Left Border"
+msgstr "Bordure gauche"
+
+#: admin/options-init.php:854
+msgid "Legal"
+msgstr "Légal"
+
+#: admin/options-init.php:853
+msgid "Letter"
+msgstr "Lettre"
+
+#: admin/options-init.php:2867
+msgid "Limit Access"
+msgstr "Limiter l'accès"
+
+#: admin/options-init.php:2252
+msgid "Limit Variations"
+msgstr "Limiter les variations"
+
+#: admin/options-init.php:1880
+msgid "Link Image to product page"
+msgstr "Lier l'image à la page du produit"
+
+#: admin/options-init.php:2142
+msgid "Link Parameters"
+msgstr "Paramètres de lien"
+
+#: admin/options-init.php:429
+msgid "Link position"
+msgstr "Position du lien"
+
+#: admin/options-init.php:882 admin/options-init.php:1168
+#: admin/options-init.php:1540 admin/options-init.php:1795
+#: admin/options-init.php:2572
+msgid "Lora"
+msgstr "Lora"
+
+#: admin/options-init.php:274
+msgid "Menu Order"
+msgstr "Ordre du menu"
+
+#: admin/options-init.php:360
+msgid "Menu order"
+msgstr "Ordre du menu"
+
+#: admin/options-init.php:883 admin/options-init.php:1169
+#: admin/options-init.php:1541 admin/options-init.php:1796
+#: admin/options-init.php:2573
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: admin/options-init.php:878 admin/options-init.php:1164
+#: admin/options-init.php:1536 admin/options-init.php:1791
+#: admin/options-init.php:2568
+msgid "Mono"
+msgstr "Mono"
+
+#: admin/options-init.php:884 admin/options-init.php:1170
+#: admin/options-init.php:1542 admin/options-init.php:1797
+#: admin/options-init.php:2574
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:176
+#: public/class-woocommerce-pdf-catalog-product-templates.php:219
+#: public/div/class-woocommerce-pdf-catalog-product-templates.php:120
+#: public/table/class-woocommerce-pdf-catalog-product-templates.php:120
+msgid "N/A"
+msgstr "N / A"
+
+#: admin/options-init.php:198 admin/options-init.php:2944
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+"Besoin de soutien? Veuillez utiliser la fonction de commentaire sur "
+"codecanyon."
+
+#: admin/options-init.php:1102
+msgid "Next page starts with 1."
+msgstr "La page suivante commence par 1."
+
+#: public/class-woocommerce-pdf-catalog-public.php:2247
+msgid "No AJAX call"
+msgstr "Aucun appel AJAX"
+
+#: admin/options-init.php:1306 admin/options-init.php:1343
+#: admin/options-init.php:1380 admin/options-init.php:2712
+#: admin/options-init.php:2749 admin/options-init.php:2785
+msgid "None"
+msgstr "Rien"
+
+#: admin/options-init.php:350
+msgid "none"
+msgstr "rien"
+
+#: admin/options-init.php:2224
+msgid ""
+"On Product level you need a meta key, where the bar code itself is stored."
+msgstr ""
+"Au niveau du produit, vous avez besoin d'une clé méta, où le code à barres "
+"lui-même est stocké."
+
+#: admin/options-init.php:1026 admin/options-init.php:1074
+#: admin/options-init.php:2510
+msgid "Only show for complete Catalog"
+msgstr "Afficher uniquement pour le catalogue complet"
+
+#: admin/options-init.php:300
+msgid ""
+"Only show products that are in current primary category loop of the pdf."
+msgstr ""
+"N'afficher que les produits qui se trouvent dans la boucle de catégorie "
+"principale actuelle du pdf."
+
+#: admin/options-init.php:885 admin/options-init.php:1171
+#: admin/options-init.php:1543 admin/options-init.php:1798
+#: admin/options-init.php:2575
+msgid "Open sans"
+msgstr "Ouvrir sans"
+
+#: admin/options-init.php:886 admin/options-init.php:1172
+#: admin/options-init.php:1544 admin/options-init.php:1799
+#: admin/options-init.php:2576
+msgid "Open Sans Condensed"
+msgstr "Open Sans Condensed"
+
+#: admin/options-init.php:263
+msgid "Order Categories"
+msgstr "Catégories de commande"
+
+#: admin/options-init.php:270
+msgid "Order Categories By"
+msgstr "Trier les catégories par"
+
+#: admin/options-init.php:336
+msgid "Order Products"
+msgstr "Commander des produits"
+
+#: admin/options-init.php:347
+msgid "Order Products By"
+msgstr "Commander les produits par"
+
+#: admin/options-init.php:863
+msgid "Orientation"
+msgstr "Orientation"
+
+#: admin/options-init.php:887 admin/options-init.php:1173
+#: admin/options-init.php:1545 admin/options-init.php:1800
+#: admin/options-init.php:2577
+msgid "Oswald"
+msgstr "Oswald"
+
+#: admin/options-init.php:866
+msgid "P"
+msgstr "P"
+
+#: admin/options-init.php:1146 admin/options-init.php:2550
+msgid "Padding"
+msgstr "Rembourrage"
+
+#: admin/options-init.php:1480 admin/options-init.php:1698
+msgid "Padding for the element, where the text is."
+msgstr "Rembourrage de l'élément, là où se trouve le texte."
+
+#: public/class-woocommerce-pdf-catalog-public.php:1602
+#: public/div/class-woocommerce-pdf-catalog-public.php:1216
+#: public/table/class-woocommerce-pdf-catalog-public.php:1090
+msgid "Page:"
+msgstr "Page:"
+
+#: admin/options-init.php:1309 admin/options-init.php:1346
+#: admin/options-init.php:1383 admin/options-init.php:2715
+#: admin/options-init.php:2752 admin/options-init.php:2788
+msgid "Pagenumber"
+msgstr "Numéro de page"
+
+#: admin/options-init.php:196
+#: admin/class-woocommerce-pdf-catalog-attributes.php:473
+msgid "PDF Catalog"
+msgstr "Catalogue PDF"
+
+#: admin/options-init.php:753
+msgid "Performance"
+msgstr "Performance"
+
+#: admin/options-init.php:2502
+msgid "Place links in the index."
+msgstr "Placez les liens dans l'index."
+
+#: admin/options-init.php:1066
+msgid "Place links in the ToC to the category page."
+msgstr "Placez des liens dans la ToC vers la page de catégorie."
+
+#: admin/options-init.php:1058
+msgid "Place pages in the ToCe."
+msgstr "Placez les pages dans la ToCe."
+
+#: admin/options-init.php:629
+msgid "Placeholder for category select field."
+msgstr "Espace réservé pour le champ de sélection de catégorie."
+
+#: admin/options-init.php:665
+msgid "Placeholder for text field."
+msgstr "Espace réservé pour le champ de texte."
+
+#: admin/options-init.php:547
+msgid "Placeholder for to field."
+msgstr "Espace réservé pour le champ."
+
+#: admin/options-init.php:588
+msgid "Placeholder for type select field."
+msgstr "Espace réservé pour le champ de sélection de type."
+
+#: admin/options-init.php:1112
+msgid "Position"
+msgstr "Positionner"
+
+#: admin/options-init.php:354
+msgid "Post Name (slug)"
+msgstr "Nom du message (slug)"
+
+#: admin/options-init.php:357
+msgid "Post/page parent id"
+msgstr "Identifiant du parent de la publication / page"
+
+#: admin/options-init.php:2942
+msgid "Preview"
+msgstr "Aperçu"
+
+#: admin/options-init.php:362
+#: public/class-woocommerce-pdf-catalog-product-templates.php:755
+#: public/class-woocommerce-pdf-catalog-product-templates.php:818
+#: public/class-woocommerce-pdf-catalog-products-templates.php:505
+#: public/class-woocommerce-pdf-catalog-products-templates.php:618
+#: public/class-woocommerce-pdf-catalog-products-templates.php:666
+msgid "Price"
+msgstr "Prix"
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:452
+#: public/class-woocommerce-pdf-catalog-product-templates.php:666
+#: public/class-woocommerce-pdf-catalog-product-templates.php:1474
+msgid "Price:"
+msgstr "Prix:"
+
+#: public/class-woocommerce-pdf-catalog-products-templates.php:493
+#: public/class-woocommerce-pdf-catalog-products-templates.php:606
+#: public/class-woocommerce-pdf-catalog-products-templates.php:654
+msgid "Product"
+msgstr "Produit"
+
+#: admin/options-init.php:1681
+msgid "Product Container Padding"
+msgstr "Rembourrage du conteneur de produit"
+
+#: admin/options-init.php:1697
+msgid "Product Information Container Padding"
+msgstr "Rembourrage de conteneur d'informations sur le produit"
+
+#: admin/options-init.php:1600
+msgid "Products Layout"
+msgstr "Disposition des produits"
+
+#: admin/options-init.php:292
+msgid "Products that are in 2 categories for example will only show once."
+msgstr ""
+"Les produits qui sont dans 2 catégories par exemple ne s'afficheront qu'une "
+"seule fois."
+
+#: admin/options-init.php:888 admin/options-init.php:1174
+#: admin/options-init.php:1546 admin/options-init.php:1801
+#: admin/options-init.php:2578
+msgid "PT Sans"
+msgstr "PT Sans"
+
+#: public/class-woocommerce-pdf-catalog-products-templates.php:520
+#: public/class-woocommerce-pdf-catalog-products-templates.php:633
+#: public/class-woocommerce-pdf-catalog-products-templates.php:681
+msgid "QR"
+msgstr "QR"
+
+#: admin/options-init.php:2156
+msgid "QR Code Size"
+msgstr "Taille du code QR"
+
+#: admin/options-init.php:1313 admin/options-init.php:1350
+#: admin/options-init.php:1387 admin/options-init.php:2719
+#: admin/options-init.php:2756 admin/options-init.php:2792
+msgid "QR-Code"
+msgstr "QR Code"
+
+#: admin/options-init.php:241
+msgid "Query"
+msgstr "Mettre en doute"
+
+#: admin/options-init.php:889 admin/options-init.php:1178
+#: admin/options-init.php:1550 admin/options-init.php:1805
+#: admin/options-init.php:2582
+msgid "Raleway"
+msgstr "Raleway"
+
+#: admin/options-init.php:358
+msgid "Random order"
+msgstr "Ordre aléatoire"
+
+#: admin/options-init.php:2077
+#: public/div/class-woocommerce-pdf-catalog-product-templates.php:253
+#: public/div/class-woocommerce-pdf-catalog-product-templates.php:399
+#: public/div/class-woocommerce-pdf-catalog-product-templates.php:872
+#: public/table/class-woocommerce-pdf-catalog-product-templates.php:258
+#: public/table/class-woocommerce-pdf-catalog-product-templates.php:406
+#: public/table/class-woocommerce-pdf-catalog-product-templates.php:872
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: admin/options-init.php:2076
+msgid "Read More Text"
+msgstr "Lire plus de texte"
+
+#: admin/options-init.php:994 admin/options-init.php:1005
+#: admin/options-init.php:1016 admin/options-init.php:2835
+#: admin/options-init.php:2846 admin/options-init.php:2857
+msgid "Recommended Image Size: 1240 x 1754 px."
+msgstr "Taille d'image recommandée: 1240 x 1754 px."
+
+#: admin/options-init.php:795
+msgid "Regenerate Cache Daily"
+msgstr "Régénérer le cache tous les jours"
+
+#: admin/options-init.php:363
+msgid "Regular Price"
+msgstr "Prix habituel"
+
+#: admin/options-init.php:1091
+msgid "Remove Footer"
+msgstr "Supprimer le pied de page"
+
+#: admin/class-woocommerce-pdf-catalog-attributes.php:140
+#: admin/class-woocommerce-pdf-catalog-attributes.php:280
+msgid "Remove image"
+msgstr "Supprimer l'image"
+
+#: admin/options-init.php:1081
+msgid "Remover Header"
+msgstr "En-tête de suppression"
+
+#: admin/options-init.php:1101
+msgid "Reset the Page Number"
+msgstr "Réinitialiser le numéro de page"
+
+#: admin/options-init.php:1638
+msgid "Respect the Products Content With."
+msgstr "Respectez le contenu des produits avec."
+
+#: admin/options-init.php:1655
+msgid "Respect the Products Image With."
+msgstr "Respectez l'image des produits avec."
+
+#: admin/options-init.php:710
+msgid "Revert Categories Exclusion"
+msgstr "Rétablir l'exclusion de catégories"
+
+#: admin/options-init.php:739
+msgid "Revert Products Exclusion"
+msgstr "Annuler l'exclusion de produits"
+
+#: admin/options-init.php:1582 admin/options-init.php:1834
+#: admin/options-init.php:2415 admin/options-init.php:2459
+msgid "Right"
+msgstr "Droite"
+
+#: admin/options-init.php:1730
+msgid "Right Border"
+msgstr "Bordure droite"
+
+#: admin/options-init.php:892 admin/options-init.php:1177
+#: admin/options-init.php:1549 admin/options-init.php:1804
+#: admin/options-init.php:2581
+msgid "Roboto"
+msgstr "Roboto"
+
+#: admin/options-init.php:423
+msgid "Sale Catalog (PDF)"
+msgstr "Catalogue de vente (PDF)"
+
+#: admin/options-init.php:1004 admin/options-init.php:2845
+msgid "Sale Cover image"
+msgstr "Image de couverture de vente"
+
+#: admin/options-init.php:421
+msgid "Sale PDF Button Text"
+msgstr "Texte du bouton PDF de vente"
+
+#: admin/options-init.php:414
+msgid "Sale PDF Link"
+msgstr "Lien PDF de vente"
+
+#: admin/options-init.php:364
+msgid "Sale Price"
+msgstr "Prix de vente"
+
+#: admin/options-init.php:876 admin/options-init.php:1162
+#: admin/options-init.php:1534 admin/options-init.php:1789
+#: admin/options-init.php:2566
+msgid "Sans"
+msgstr "Sans"
+
+#: admin/options-init.php:2883
+msgid ""
+"Select a custom user Role (Default is: administrator) who can use this "
+"plugin."
+msgstr ""
+"Sélectionnez un rôle d'utilisateur personnalisé (par défaut: administrateur) "
+"qui peut utiliser ce plugin."
+
+#: admin/options-init.php:2029
+msgid "Select attributes"
+msgstr "Sélectionnez les attributs"
+
+#: admin/class-woocommerce-pdf-catalog-admin.php:325
+msgid "Select category ID"
+msgstr "Sélectionnez l'ID de catégorie"
+
+#: admin/options-init.php:1429 admin/options-init.php:1607
+msgid "Select Layout"
+msgstr "Sélectionnez la mise en page"
+
+#: admin/options-init.php:508
+msgid "Send Email Catalog"
+msgstr "Envoyer le catalogue par e-mail"
+
+#: admin/options-init.php:814
+msgid "Send Regenerate Report"
+msgstr "Envoyer un rapport de régénération"
+
+#: admin/options-init.php:877 admin/options-init.php:1163
+#: admin/options-init.php:1535 admin/options-init.php:1790
+#: admin/options-init.php:2567
+msgid "Serif"
+msgstr "Serif"
+
+#: admin/options-init.php:2274
+msgid "Set a limit after the table breaks below."
+msgstr "Fixez une limite après la rupture du tableau ci-dessous."
+
+#: public/class-woocommerce-pdf-catalog-products-templates.php:496
+#: public/class-woocommerce-pdf-catalog-products-templates.php:609
+#: public/class-woocommerce-pdf-catalog-products-templates.php:657
+msgid "Short Description"
+msgstr "brève description"
+
+#: admin/options-init.php:1928
+msgid "Show 1st Product Category Description"
+msgstr "Afficher la description de la première catégorie de produit"
+
+#: admin/options-init.php:516
+msgid "Show a button send the cart via Email."
+msgstr "Afficher un bouton envoyer le panier par e-mail."
+
+#: admin/options-init.php:934
+msgid "Show a Watermark in your PDF."
+msgstr "Affichez un filigrane dans votre PDF."
+
+#: admin/options-init.php:2164
+msgid "Show Barcode"
+msgstr "Afficher le code barre"
+
+#: admin/options-init.php:445
+msgid "Show Cart PDF Catalog Link"
+msgstr "Afficher le panier Lien du catalogue PDF"
+
+#: admin/options-init.php:1940
+msgid "Show Cart Quantity"
+msgstr "Afficher la quantité du panier"
+
+#: admin/options-init.php:1423
+msgid "Show Category"
+msgstr "Afficher la catégorie"
+
+#: admin/options-init.php:1033
+msgid "Show Cover Images between categories"
+msgstr "Afficher les images de couverture entre les catégories"
+
+#: admin/options-init.php:1990
+msgid "Show Custom Tabs"
+msgstr "Afficher les onglets personnalisés"
+
+#: admin/options-init.php:1991
+msgid ""
+"Show Custom Tabs after Description. This requires our <a href=\"https://www."
+"welaunch.io/en/product/woocommerce-ultimate-tabs/\" target=_\"blank\">"
+"Ultimate Tabs plugin</a>."
+msgstr ""
+"Afficher les onglets personnalisés après la description. Cela nécessite "
+"notre <a href=\"https://www.welaunch.io/en/product/woocommerce-ultimate-"
+"tabs/\" target=_\"blank\">plugin Ultimate Tabs</a> ."
+
+#: admin/options-init.php:2044
+msgid "Show Dimensions?"
+msgstr "Afficher les dimensions?"
+
+#: admin/options-init.php:250 admin/options-init.php:383
+msgid "Show Full PDF Catalog Link"
+msgstr "Afficher le lien du catalogue PDF complet"
+
+#: admin/options-init.php:1887
+msgid "Show Gallery Images"
+msgstr "Afficher les images de la galerie"
+
+#: admin/options-init.php:1984
+msgid "Show Long Description"
+msgstr "Afficher la description longue"
+
+#: admin/options-init.php:400
+msgid "Show PDF Category Catalog Link"
+msgstr "Afficher le lien du catalogue de catégories PDF"
+
+#: admin/options-init.php:415
+msgid "Show PDF Sale Catalog Link"
+msgstr "Afficher le lien du catalogue de vente PDF"
+
+#: admin/options-init.php:2022
+msgid "Show Product Attributes"
+msgstr "Afficher les attributs du produit"
+
+#: admin/options-init.php:2096
+msgid "Show Product Categories"
+msgstr "Afficher les catégories de produits"
+
+#: admin/options-init.php:1856
+msgid "Show Product Image"
+msgstr "Afficher l'image du produit"
+
+#: admin/options-init.php:1948
+msgid "Show Product Price"
+msgstr "Afficher le prix du produit"
+
+#: admin/options-init.php:2083
+msgid "Show Product SKU"
+msgstr "Afficher le SKU du produit"
+
+#: admin/options-init.php:2116
+msgid "Show Product Stock Status"
+msgstr "Afficher l'état du stock de produit"
+
+#: admin/options-init.php:2122
+msgid "Show Product Tags"
+msgstr "Afficher les étiquettes du produit"
+
+#: admin/options-init.php:1934
+msgid "Show Product Title"
+msgstr "Afficher le titre du produit"
+
+#: admin/options-init.php:2150
+msgid "Show QR-Code"
+msgstr "Afficher le code QR"
+
+#: admin/options-init.php:2070
+msgid "Show Read More Link"
+msgstr "Afficher le lien En savoir plus"
+
+#: admin/options-init.php:1954
+msgid "Show Short Description"
+msgstr "Afficher une brève description"
+
+#: admin/options-init.php:315
+msgid "Show Subcategories and products"
+msgstr "Afficher les sous-catégories et les produits"
+
+#: admin/options-init.php:649
+msgid ""
+"Show the text field in fronted so users can enter a custom message in the "
+"mail with the attachment. Otherwise the default message above will be used."
+msgstr ""
+"Afficher le champ de texte devant afin que les utilisateurs puissent entrer "
+"un message personnalisé dans l'e-mail avec la pièce jointe. Sinon, le "
+"message par défaut ci-dessus sera utilisé."
+
+#: admin/options-init.php:2349
+msgid "Show Variation Attributes"
+msgstr "Afficher les attributs de variation"
+
+#: admin/options-init.php:2356
+msgid "Show Variation Comment Field"
+msgstr "Afficher le champ de commentaire de variante"
+
+#: admin/options-init.php:2335
+msgid "Show Variation Description"
+msgstr "Afficher la description de la variante"
+
+#: admin/options-init.php:2301
+msgid "Show Variation Image"
+msgstr "Afficher l'image de variation"
+
+#: admin/options-init.php:2328
+msgid "Show Variation Price"
+msgstr "Afficher le prix de la variation"
+
+#: admin/options-init.php:2321
+msgid "Show Variation SKU"
+msgstr "Afficher la variante SKU"
+
+#: admin/options-init.php:2342
+msgid "Show Variation Stock"
+msgstr "Afficher le stock de variation"
+
+#: admin/options-init.php:2239
+msgid "Show Variations"
+msgstr "Afficher les variations"
+
+#: admin/options-init.php:2245
+msgid "Show Variations Title"
+msgstr "Afficher le titre des variantes"
+
+#: admin/options-init.php:2037
+msgid "Show weight?"
+msgstr "Afficher le poids?"
+
+#: admin/options-init.php:479
+msgid ""
+"Show Wishlist PDF Catalog Link. This requires <a href=\"https://codecanyon."
+"net/item/woocommerce-wishlist/22003411\" target=\"_blank\">our wishlist "
+"plugin!</a>"
+msgstr ""
+"Afficher le lien du catalogue PDF de la liste d&#39;envies. Cela nécessite "
+"<a href=\"https://codecanyon.net/item/woocommerce-wishlist/22003411\" "
+"target=\"_blank\">notre plugin de liste de souhaits!</a>"
+
+#: admin/options-init.php:361 admin/options-init.php:2485
+#: public/class-woocommerce-pdf-catalog-product-templates.php:735
+#: public/class-woocommerce-pdf-catalog-product-templates.php:798
+#: public/class-woocommerce-pdf-catalog-products-templates.php:490
+#: public/class-woocommerce-pdf-catalog-products-templates.php:603
+#: public/class-woocommerce-pdf-catalog-products-templates.php:651
+msgid "SKU"
+msgstr "SKU"
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:411
+#: public/class-woocommerce-pdf-catalog-product-templates.php:448
+#: public/class-woocommerce-pdf-catalog-product-templates.php:630
+#: public/class-woocommerce-pdf-catalog-product-templates.php:663
+#: public/class-woocommerce-pdf-catalog-product-templates.php:1421
+#: public/class-woocommerce-pdf-catalog-product-templates.php:1470
+msgid "SKU:"
+msgstr "SKU:"
+
+#: admin/options-init.php:891 admin/options-init.php:1176
+#: admin/options-init.php:1548 admin/options-init.php:1803
+#: admin/options-init.php:2580
+msgid "Slabo"
+msgstr "Slabo"
+
+#: admin/options-init.php:275
+msgid "Slug"
+msgstr "Limace"
+
+#: admin/options-init.php:2253
+msgid "Sometimes the layout breaks because of many variations. Set a limit"
+msgstr ""
+"Parfois, la mise en page se rompt à cause de nombreuses variations. Fixez "
+"une limite"
+
+#: admin/options-init.php:271
+msgid "Sort categories by a parameter."
+msgstr "Trier les catégories par un paramètre."
+
+#: admin/options-init.php:348
+msgid "Sort retrieved Products by parameter."
+msgstr "Trier les produits récupérés par paramètre."
+
+#: admin/options-init.php:337
+msgid "Sort retrieved Products."
+msgstr "Trier les produits récupérés."
+
+#: admin/options-init.php:890 admin/options-init.php:1175
+#: admin/options-init.php:1547 admin/options-init.php:1802
+#: admin/options-init.php:2579
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: admin/options-init.php:761
+msgid ""
+"Specify whether to substitute missing characters in UTF-8(multibyte) "
+"documents. <a target=\"_blank\" href=\"https://mpdf.github.io/reference/mpdf-"
+"variables/usesubstitutions.html\">Read more here</a>"
+msgstr ""
+"Spécifiez s&#39;il faut remplacer les caractères manquants dans les "
+"documents UTF-8 (multi-octets). <a target=\"_blank\" href=\"https://mpdf."
+"github.io/reference/mpdf-variables/usesubstitutions.html\">En savoir plus "
+"ici</a>"
+
+#: admin/options-init.php:2273
+msgid "Split Variations into multiple tables"
+msgstr "Diviser les variations en plusieurs tables"
+
+#: public/class-woocommerce-pdf-catalog-products-templates.php:508
+#: public/class-woocommerce-pdf-catalog-products-templates.php:621
+#: public/class-woocommerce-pdf-catalog-products-templates.php:669
+msgid "Stock"
+msgstr "Stocker"
+
+#: admin/options-init.php:365
+msgid "Stock Amount"
+msgstr "Montant du stock"
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:743
+#: public/class-woocommerce-pdf-catalog-product-templates.php:806
+msgid "Stock Status"
+msgstr "État des stocks"
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:456
+#: public/class-woocommerce-pdf-catalog-product-templates.php:669
+#: public/class-woocommerce-pdf-catalog-product-templates.php:1478
+msgid "Stock:"
+msgstr "Stocker:"
+
+#: admin/options-init.php:1998
+msgid "Strip Shortcodes of Description"
+msgstr "Supprimer les codes courts de la description"
+
+#: admin/options-init.php:1960
+msgid "Strip Shortcodes of Short Description"
+msgstr "Supprimez les codes courts de la description courte"
+
+#: admin/options-init.php:314
+msgid "Subcategories"
+msgstr "Sous-catégories"
+
+#: admin/options-init.php:555
+msgid "Subject."
+msgstr "Matière."
+
+#: admin/options-init.php:1043
+msgid "Table of Contents"
+msgstr "Table des matières"
+
+#: admin/options-init.php:2135
+msgid "Tag Plural Text"
+msgstr "Balise au pluriel du texte"
+
+#: admin/options-init.php:2128
+msgid "Tag Single Text"
+msgstr "Balise un seul texte"
+
+#: public/class-woocommerce-pdf-catalog-products-templates.php:517
+#: public/class-woocommerce-pdf-catalog-products-templates.php:630
+#: public/class-woocommerce-pdf-catalog-products-templates.php:678
+msgid "Tags"
+msgstr "Mots clés"
+
+#: admin/options-init.php:273
+msgid "Term_id"
+msgstr "Term_id"
+
+#: admin/options-init.php:942
+msgid "Text"
+msgstr "Texte"
+
+#: admin/options-init.php:682
+msgid "Text after button has been sent."
+msgstr "Texte après l'envoi du bouton."
+
+#: admin/options-init.php:2537
+msgid "Text After index"
+msgstr "Texte après index"
+
+#: admin/options-init.php:2429
+msgid "Text After Products"
+msgstr "Texte après les produits"
+
+#: admin/options-init.php:1133
+msgid "Text After ToC"
+msgstr "Texte après ToC"
+
+#: admin/options-init.php:1578 admin/options-init.php:1830
+#: admin/options-init.php:2411 admin/options-init.php:2455
+msgid "Text Align"
+msgstr "Aligner le texte"
+
+#: admin/options-init.php:2527
+msgid "Text Before index"
+msgstr "Texte avant l'index"
+
+#: admin/options-init.php:2385
+msgid "Text Before Products"
+msgstr "Texte avant les produits"
+
+#: admin/options-init.php:1123
+msgid "Text Before ToC"
+msgstr "Texte avant ToC"
+
+#: admin/options-init.php:1841
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: admin/options-init.php:1186 admin/options-init.php:1237
+#: admin/options-init.php:1558 admin/options-init.php:1812
+#: admin/options-init.php:2391 admin/options-init.php:2435
+#: admin/options-init.php:2590 admin/options-init.php:2643
+msgid "Text font size"
+msgstr "Taille de la police du texte"
+
+#: admin/options-init.php:674
+msgid "Text for the send button."
+msgstr "Texte pour le bouton d'envoi."
+
+#: admin/options-init.php:452
+msgid "Text inside the export cart button."
+msgstr "Texte à l'intérieur du bouton du panier d'exportation."
+
+#: admin/options-init.php:407
+msgid "Text inside the export category button."
+msgstr "Texte à l'intérieur du bouton de catégorie d'exportation."
+
+#: admin/options-init.php:390
+msgid "Text inside the export full catalog button."
+msgstr "Texte à l'intérieur du bouton d'exportation du catalogue complet."
+
+#: admin/options-init.php:422
+msgid "Text inside the export Sale button."
+msgstr "Texte à l'intérieur du bouton Export Sale."
+
+#: admin/options-init.php:523
+msgid "Text inside the send button."
+msgstr "Texte à l'intérieur du bouton d'envoi."
+
+#: admin/options-init.php:486
+msgid "Text inside the wishlist export button."
+msgstr "Texte à l'intérieur du bouton d'exportation de la liste de souhaits."
+
+#: admin/options-init.php:1196 admin/options-init.php:1247
+#: admin/options-init.php:1568 admin/options-init.php:1821
+#: admin/options-init.php:2401 admin/options-init.php:2445
+#: admin/options-init.php:2600 admin/options-init.php:2653
+msgid "Text line height"
+msgstr "Hauteur de la ligne de texte"
+
+#: admin/options-init.php:1495
+msgid "This overrides the category image."
+msgstr "Cela remplace l'image de la catégorie."
+
+#: admin/options-init.php:2900
+msgid "This stops creating the PDF and shows the plain HTML."
+msgstr "Cela arrête la création du PDF et affiche le HTML brut."
+
+#: admin/options-init.php:796
+msgid "This will delete old PDFs and create new ones every day."
+msgstr "Cela supprimera les anciens PDF et en créera de nouveaux chaque jour."
+
+#: admin/options-init.php:721
+msgid ""
+"This will exclude only products inside a category, not the category itself. "
+"Good for overview pages."
+msgstr ""
+"Cela exclura uniquement les produits d'une catégorie, pas la catégorie elle-"
+"même. Bon pour les pages d'aperçu."
+
+#: admin/options-init.php:782
+msgid ""
+"This will get images directly from your server paths rather than requesting "
+"it from a http or https. Only enable it if your images are on the same "
+"server!"
+msgstr ""
+"Cela obtiendra des images directement à partir des chemins de votre serveur "
+"plutôt que de les demander à un http ou https. Ne l'activez que si vos "
+"images sont sur le même serveur!"
+
+#: admin/options-init.php:1034
+msgid ""
+"This will place the cover image inside the PDF catalog for each category "
+"before."
+msgstr ""
+"Cela placera l'image de couverture dans le catalogue PDF pour chaque "
+"catégorie avant."
+
+#: admin/options-init.php:815
+msgid "This will send a cache report to admin email each time."
+msgstr ""
+"Cela enverra un rapport de cache au courrier électronique de "
+"l'administrateur à chaque fois."
+
+#: admin/options-init.php:353 admin/options-init.php:2484
+msgid "Title"
+msgstr "Titre"
+
+#: public/class-woocommerce-pdf-catalog-public.php:2253
+msgid "To missing."
+msgstr "À manquer."
+
+#: admin/options-init.php:1717
+msgid "Top Border"
+msgstr "Bordure supérieure"
+
+#: admin/options-init.php:2709
+msgid "Top Left Footer"
+msgstr "Pied de page en haut à gauche"
+
+#: admin/options-init.php:2737
+msgid "Top Left Footer Image"
+msgstr "Image de pied de page en haut à gauche"
+
+#: admin/options-init.php:2727
+msgid "Top Left Footer Text"
+msgstr "Texte du pied de page en haut à gauche"
+
+#: admin/options-init.php:1303
+msgid "Top Left Header"
+msgstr "En-tête supérieur gauche"
+
+#: admin/options-init.php:1331
+msgid "Top Left Header Image"
+msgstr "Image d'en-tête en haut à gauche"
+
+#: admin/options-init.php:1321
+msgid "Top Left Header Text"
+msgstr "Texte d'en-tête en haut à gauche"
+
+#: admin/options-init.php:2746
+msgid "Top Middle Footer"
+msgstr "Pied de page du milieu supérieur"
+
+#: admin/options-init.php:2773
+msgid "Top Middle Footer Image"
+msgstr "Image de pied de page du milieu supérieur"
+
+#: admin/options-init.php:2763
+msgid "Top Middle Footer Text"
+msgstr "Texte du pied de page au milieu supérieur"
+
+#: admin/options-init.php:1340
+msgid "Top Middle Header"
+msgstr "En-tête du milieu supérieur"
+
+#: admin/options-init.php:1368
+msgid "Top Middle Header Image"
+msgstr "Image d'en-tête du milieu supérieur"
+
+#: admin/options-init.php:1358
+msgid "Top Middle Header Text"
+msgstr "Texte de l'en-tête du milieu supérieur"
+
+#: admin/options-init.php:2782
+msgid "Top Right Footer"
+msgstr "Pied de page en haut à droite"
+
+#: admin/options-init.php:2809
+msgid "Top Right Footer Image"
+msgstr "Image de pied de page en haut à droite"
+
+#: admin/options-init.php:2799
+msgid "Top Right Footer Text"
+msgstr "Texte du pied de page en haut à droite"
+
+#: admin/options-init.php:1377
+msgid "Top Right Header"
+msgstr "En-tête supérieur droit"
+
+#: admin/options-init.php:1405
+msgid "Top Right Header Image"
+msgstr "Image d'en-tête en haut à droite"
+
+#: admin/options-init.php:1395
+msgid "Top Right Header Text"
+msgstr "Texte d'en-tête en haut à droite"
+
+#: admin/class-woocommerce-pdf-catalog-attributes.php:141
+#: admin/class-woocommerce-pdf-catalog-attributes.php:284
+msgid "Upload/Add image"
+msgstr "Télécharger / Ajouter une image"
+
+#: admin/options-init.php:775
+msgid ""
+"Use binary packing of table data to reduce memory usage. <a "
+"target=\"_blank\" href=\"https://mpdf.github.io/reference/mpdf-"
+"variables/packtabledata.html\">Read more here</a>."
+msgstr ""
+"Utilisez le conditionnement binaire des données de table pour réduire l&#39;"
+"utilisation de la mémoire. <a target=\"_blank\" href=\"https://mpdf.github."
+"io/reference/mpdf-variables/packtabledata.html\">En savoir plus ici</a> ."
+
+#: admin/options-init.php:789
+msgid "Use button below to create PDF files for cache."
+msgstr ""
+"Utilisez le bouton ci-dessous pour créer des fichiers PDF pour le cache."
+
+#: admin/class-woocommerce-pdf-catalog-attributes.php:166
+#: admin/class-woocommerce-pdf-catalog-attributes.php:306
+msgid "Use image"
+msgstr "Utiliser l'image"
+
+#: admin/options-init.php:781
+msgid "Use Images Locally"
+msgstr "Utiliser les images localement"
+
+#: admin/options-init.php:774
+msgid "Use Pack Table Data"
+msgstr "Utiliser les données de la table de paquets"
+
+#: admin/options-init.php:767
+msgid "Use Simple Tables"
+msgstr "Utiliser des tableaux simples"
+
+#: admin/options-init.php:2882
+msgid "User Role"
+msgstr "Rôle d'utilisateur"
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:442
+#: public/class-woocommerce-pdf-catalog-product-templates.php:658
+#: public/class-woocommerce-pdf-catalog-product-templates.php:1464
+#: public/div/class-woocommerce-pdf-catalog-product-templates.php:257
+#: public/div/class-woocommerce-pdf-catalog-product-templates.php:403
+#: public/table/class-woocommerce-pdf-catalog-product-templates.php:262
+#: public/table/class-woocommerce-pdf-catalog-product-templates.php:410
+msgid "Variations"
+msgstr "Variations"
+
+#: admin/options-init.php:2308
+msgid "Variations Image Size"
+msgstr "Variations Taille de l'image"
+
+#: admin/options-init.php:925
+msgid "Watermark"
+msgstr "Filigrane"
+
+#: admin/options-init.php:952
+msgid "Watermark Image"
+msgstr "Image de filigrane"
+
+#: admin/options-init.php:961
+msgid "Watermark Text"
+msgstr "Texte du filigrane"
+
+#: admin/options-init.php:969
+msgid "Watermark Transparency"
+msgstr "Transparence du filigrane"
+
+#: admin/options-init.php:940
+msgid "Watermark Type"
+msgstr "Type de filigrane"
+
+#: public/class-woocommerce-pdf-catalog-product-templates.php:1000
+msgid "Weight"
+msgstr "Poids"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "weLancement"
+
+#: admin/options-init.php:307
+msgid ""
+"When categories with WOOF Filter plugin are selected, it will export these "
+"categories instead of all."
+msgstr ""
+"Lorsque des catégories avec le plugin WOOF Filter sont sélectionnées, il "
+"exportera ces catégories au lieu de toutes."
+
+#: admin/options-init.php:226
+msgid ""
+"When enabled and you use our <a href=\"https://www.welaunch."
+"io/en/product/woocommerce-single-variations/\" target=\"_blank\">Single "
+"Variations Plugin</a> all variations will be exported as own products and "
+"variable ones will be hidden."
+msgstr ""
+"Lorsqu&#39;elle est activée et que vous utilisez notre <a href=\"https://www."
+"welaunch.io/en/product/woocommerce-single-variations/\" target=\"_blank\">"
+"plug-in Single Variations,</a> toutes les variantes seront exportées en tant "
+"que produits propres et les variables seront masquées."
+
+#: admin/options-init.php:746
+msgid "When set to true this will hide out of stock products."
+msgstr ""
+"Lorsqu'il est défini sur true, cela masquera les produits en rupture de "
+"stock."
+
+#: admin/options-init.php:257
+msgid ""
+"When you use WooCommerce Nav Filters check this option to retrieve filtered "
+"product data."
+msgstr ""
+"Lorsque vous utilisez les filtres de navigation WooCommerce, cochez cette "
+"option pour récupérer les données produit filtrées."
+
+#: admin/options-init.php:705
+msgid "Which product categories should be excluded in the PDF catalog."
+msgstr "Quelles catégories de produits doivent être exclues du catalogue PDF."
+
+#: admin/options-init.php:734
+msgid "Which products should be excluded in the PDF catalog."
+msgstr "Quels produits doivent être exclus du catalogue PDF."
+
+#: admin/options-init.php:2263
+msgid "Width of a variation table"
+msgstr "Largeur d'une table de variation"
+
+#: admin/options-init.php:485
+msgid "Wishlist Button Text"
+msgstr "Texte du bouton de la liste de souhaits"
+
+#: admin/options-init.php:1015 admin/options-init.php:2856
+msgid "Wishlist Cover image"
+msgstr "Image de couverture de la liste de souhaits"
+
+#: admin/options-init.php:493
+msgid "Wishlist Link position"
+msgstr "Position du lien de la liste de souhaits"
+
+#: admin/options-init.php:478
+msgid "Wishlist PDF Export Link"
+msgstr "Lien d'exportation PDF de la liste de souhaits"
+
+#: admin/options-init.php:693
+msgid ""
+"With the below settings you can exclude products / categories from the PDF "
+"catalog."
+msgstr ""
+"Avec les paramètres ci-dessous, vous pouvez exclure des produits / "
+"catégories du catalogue PDF."
+
+#: admin/options-init.php:2365
+msgid ""
+"With the below settings you can show custom post meta keys for the posts. "
+"First enable a custom key, then reload the admin panel and drag the item "
+"into the enabled section."
+msgstr ""
+"Avec les paramètres ci-dessous, vous pouvez afficher des clés méta de "
+"publication personnalisées pour les publications. Activez d'abord une clé "
+"personnalisée, puis rechargez le panneau d'administration et faites glisser "
+"l'élément dans la section activée."
+
+#. Name of the plugin
+msgid "WooCommerce PDF Catalog"
+msgstr "Catalogue PDF WooCommerce"
+
+#: woocommerce-pdf-catalog.php:100
+msgid ""
+"WooCommerce PDF Catalog requires the WooCommerce and WeLaunch Framework "
+"plugin. Please install or activate them before! https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+msgstr ""
+"Le catalogue PDF WooCommerce nécessite le plugin WooCommerce et WeLaunch "
+"Framework. Veuillez les installer ou les activer avant! https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+
+#: admin/options-init.php:306
+msgid "WOOF Filter Support"
+msgstr "Prise en charge des filtres WOOF"
+
+#: admin/options-init.php:299
+msgid "Yoast Primary Category only in Full Catalog"
+msgstr "Catégorie principale Yoast uniquement dans le catalogue complet"
+
+#: admin/options-init.php:1515 admin/options-init.php:1873
+#: admin/options-init.php:1904
+msgid ""
+"You can use e.g. full, large, thumbnail, woocommerce_single, shop_single, "
+"shop_catalog..."
+msgstr ""
+"Vous pouvez utiliser par ex. plein, grand, miniature, woocommerce_single, "
+"shop_single, shop_catalog ..."
+
+#: admin/options-init.php:2223
+msgid "Your Barcode Meta Key"
+msgstr "Votre clé méta de code-barres"

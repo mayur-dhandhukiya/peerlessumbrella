@@ -1,0 +1,37 @@
+<?php
+$name='Raleway-Regular';
+$type='TTF';
+$desc=array (
+  'CapHeight' => 710.0,
+  'XHeight' => 521.0,
+  'FontBBox' => '[-216 -223 1310 933]',
+  'Flags' => 4,
+  'Ascent' => 933.0,
+  'Descent' => -223.0,
+  'Leading' => 0.0,
+  'ItalicAngle' => 0.0,
+  'StemV' => 87.0,
+  'MissingWidth' => 0.0,
+);
+$unitsPerEm=1000;
+$up=-75;
+$ut=50;
+$strp=250;
+$strs=50;
+$ttffile='/sites/dev.welaunch.io/public/plugins/wp-content/plugins/woocommerce-pdf-catalog/fonts//Raleway/Raleway-Regular.ttf';
+$TTCfontID='0';
+$originalsize=178520;
+$sip=false;
+$smp=false;
+$BMPselected=false;
+$fontkey='raleway';
+$panose=' 0 0 2 b 5 3 3 1 1 6 0 3';
+$haskerninfo=false;
+$haskernGPOS=false;
+$hassmallcapsGSUB=false;
+$fontmetrics='win';
+// TypoAscender/TypoDescender/TypoLineGap = 940, -234, 0
+// usWinAscent/usWinDescent = 940, -234
+// hhea Ascent/Descent/LineGap = 940, -234, 0
+$useOTL=0x0000;
+$rtlPUAstr='';

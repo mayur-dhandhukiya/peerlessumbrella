@@ -1,0 +1,84 @@
+.book-shelf-preview-covers .cover {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 10px 0 10px;
+        transform-origin: 0% 0%;
+        background: #FFF;
+        /* transition: all .3s; */
+        transition-timing-function: ease-out;
+        transform-origin: 0% 0%;
+        transform-style: preserve-3d; /* Safari 3-8  */
+        transform: translateZ(0px);
+}
+.book-shelf-preview-covers .delete-cover{
+    position: absolute;
+    top:0px;
+    right: 0px;
+    color: #F00;
+    cursor: pointer;
+    /*font-size: 16px;*/
+    /*display: none;*/
+}
+
+.delete-cover:before{
+    content: "\f335";
+}
+
+.book-shelf-preview-covers .cover:hover {
+    /*transform: translateZ(20px);*/
+}
+
+.book-shelf-preview-covers .cover  img{
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    vertical-align: top;
+    transform: rotateY(0deg);
+    transform: translateZ(0px);
+    /* transition: all .3s; */
+    transition-timing-function: ease-out;
+    transform-origin: 0% 0%;
+    transform-style: preserve-3d; /* Safari 3-8  */
+}
+
+.book-shelf-preview-covers .cover img:hover{
+   /* transform: rotateY(-30deg);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);*/
+}
+
+.book-shelf-preview{
+    text-align: center;
+    
+}
+
+.book-shelf-button-select{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+}
+
+.book-shelf-preview-covers{
+        width: 100%;
+    height: auto;
+    text-align: center;
+    z-index: 99;
+    position: relative;
+
+    perspective: 1000px;
+    perspective-origin: 50% 20%;
+
+}
+
+#shelf-image{
+        z-index: 0;
+    height: auto;
+    max-width: 100%;
+    vertical-align: top;
+    margin-top: -12px;
+}
+
+
+#flipbooks-table img{
+    width:100px;
+}

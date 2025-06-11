@@ -1,0 +1,37 @@
+<?php
+$name='Oswald-Regular';
+$type='TTF';
+$desc=array (
+  'CapHeight' => 810.0,
+  'XHeight' => 578.0,
+  'FontBBox' => '[-197 -287 1223 1297]',
+  'Flags' => 4,
+  'Ascent' => 1193.0,
+  'Descent' => -289.0,
+  'Leading' => 0.0,
+  'ItalicAngle' => 0.0,
+  'StemV' => 87.0,
+  'MissingWidth' => 682.0,
+);
+$unitsPerEm=1000;
+$up=-75;
+$ut=50;
+$strp=346;
+$strs=50;
+$ttffile='/sites/dev.welaunch.io/public/plugins/wp-content/plugins/woocommerce-pdf-catalog/fonts//Oswald/Oswald-Regular.ttf';
+$TTCfontID='0';
+$originalsize=93132;
+$sip=false;
+$smp=false;
+$BMPselected=false;
+$fontkey='oswald';
+$panose=' 0 0 0 0 5 0 0 0 0 0 0 0';
+$haskerninfo=false;
+$haskernGPOS=false;
+$hassmallcapsGSUB=false;
+$fontmetrics='win';
+// TypoAscender/TypoDescender/TypoLineGap = 1193, -289, 0
+// usWinAscent/usWinDescent = 1325, -377
+// hhea Ascent/Descent/LineGap = 1193, -289, 0
+$useOTL=0x0000;
+$rtlPUAstr='';

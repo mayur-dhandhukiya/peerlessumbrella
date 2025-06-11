@@ -1,0 +1,6 @@
+.video-container{
+    display: none;
+}
+.video-container.active {
+    display: block;
+}

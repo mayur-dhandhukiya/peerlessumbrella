@@ -1,0 +1,112 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Smart Price Filter for WooCommerce 1.3.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-smart-price-filter\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-26T16:14:49+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-smart-price-filter\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Smart Price Filter for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Smart Price Filter is an advanced widget help you to filter products by price with unlimited price ranges."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-smart-price-filter.php:50
+msgid "Smart product filter by price widget for WooCommerce"
+msgstr ""
+
+#: wpc-smart-price-filter.php:58
+#: wpc-smart-price-filter.php:519
+#: wpc-smart-price-filter.php:529
+msgid "WPC Smart Price Filter"
+msgstr ""
+
+#: wpc-smart-price-filter.php:171
+msgid "Filter by price"
+msgstr ""
+
+#: wpc-smart-price-filter.php:182
+msgid "From Price"
+msgstr ""
+
+#: wpc-smart-price-filter.php:183
+msgid "To Price"
+msgstr ""
+
+#: wpc-smart-price-filter.php:184
+msgid "Label"
+msgstr ""
+
+#: wpc-smart-price-filter.php:204
+#: wpc-smart-price-filter.php:229
+msgid "Delete"
+msgstr ""
+
+#: wpc-smart-price-filter.php:212
+msgid "Add new price range"
+msgstr ""
+
+#: wpc-smart-price-filter.php:493
+#: wpc-smart-price-filter.php:542
+msgid "How to use?"
+msgstr ""
+
+#: wpc-smart-price-filter.php:509
+msgid "Community support"
+msgstr ""
+
+#: wpc-smart-price-filter.php:519
+msgid "Price Filter"
+msgstr ""
+
+#. translators: stars
+#: wpc-smart-price-filter.php:532
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-smart-price-filter.php:534
+msgid "Reviews"
+msgstr ""
+
+#: wpc-smart-price-filter.php:535
+msgid "Changelog"
+msgstr ""
+
+#: wpc-smart-price-filter.php:536
+msgid "Discussion"
+msgstr ""
+
+#: wpc-smart-price-filter.php:545
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-smart-price-filter.php:553
+msgid "After install & active plugin, you can go to Appearance >> Widgets to add widget \"WPC Smart Price Filter\" to the sidebar."
+msgstr ""
+
+#: wpc-smart-price-filter.php:576
+msgid "WPC Smart Price Filter require WooCommerce version 3.0 or greater."
+msgstr ""

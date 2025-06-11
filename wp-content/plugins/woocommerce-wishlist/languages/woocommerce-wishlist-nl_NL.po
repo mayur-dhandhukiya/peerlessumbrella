@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Quick View\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-09 11:47+0000\n"
+"PO-Revision-Date: 2018-08-09 11:47+0000\n"
+"Last-Translator: DB-Dzine <contact@db-dzine.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-wishlist.php:88
+msgid ""
+"WooCommerce Wishlist requires the WooCommerce & free Redux Framework plugin. "
+"Please install or activate them!"
+msgstr "WooCommerce Verlanglijst vereist de WooCommerce en gratis Redux Framework-plug-in. Installeer of activeer ze alstublieft!"
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr "Informatie"
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr "<p> Ondersteuning nodig? Gebruik de commentaarfunctie op codecanyon. </ P>"
+
+#: admin/options-init.php:105
+msgid "Image"
+msgstr "Beeld"
+
+#: admin/options-init.php:106
+msgid "Title"
+msgstr "Titel"
+
+#: admin/options-init.php:107
+msgid "Reviews"
+msgstr "beoordelingen"
+
+#: admin/options-init.php:108
+msgid "Price"
+msgstr "Prijs"
+
+#: admin/options-init.php:109
+msgid "Stock"
+msgstr "Voorraad"
+
+#: admin/options-init.php:110
+#: admin/class-woocommerce-wishlist-statistics.php:115
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/options-init.php:111
+msgid "Tags"
+msgstr "Tags"
+
+#: admin/options-init.php:112
+msgid "Categories"
+msgstr "Categorieën"
+
+#: admin/options-init.php:113
+msgid "Short Description"
+msgstr "korte beschrijving"
+
+#: admin/options-init.php:114
+msgid "Add to Cart"
+msgstr "Voeg toe aan winkelmandje"
+
+#: admin/options-init.php:121
+msgid "Description"
+msgstr "Beschrijving"
+
+#: admin/options-init.php:122
+msgid "Attributes"
+msgstr "attributen"
+
+#: admin/options-init.php:123
+#: public/templates/woocommerce-wishlist-single-item.php:161
+msgid "Read More"
+msgstr "Lees verder"
+
+#: admin/options-init.php:134 admin/class-woocommerce-wishlist-post-type.php:63
+msgid "Wishlist"
+msgstr "verlanglijst"
+
+#: admin/options-init.php:136
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "Ondersteuning nodig? Gebruik de commentaarfunctie op codecanyon."
+
+#: admin/options-init.php:141
+msgid "General"
+msgstr "Algemeen"
+
+#: admin/options-init.php:149
+msgid "Enable"
+msgstr "in staat stellen"
+
+#: admin/options-init.php:150
+msgid "Enable Wishlist."
+msgstr "Schakel verlanglijstje in."
+
+#: admin/options-init.php:164
+msgid "Enable Wishlist Search"
+msgstr "Schakel Zoeken naar verlanglijst in"
+
+#: admin/options-init.php:165
+msgid "Enable to search for public Wishlists."
+msgstr "Schakel in om te zoeken naar openbare verlanglijsts."
+
+#: admin/options-init.php:180
+msgid "Enable Guest Wishlists"
+msgstr "Gast-verlanglijstjes inschakelen"
+
+#: admin/options-init.php:181
+msgid ""
+"Not logged in users can create wishlists. They will be saved in a cookie, "
+"but they can not create own wishlists."
+msgstr "Niet ingelogde gebruikers kunnen verlanglijstjes maken. Ze worden opgeslagen in een cookie, maar ze kunnen geen eigen verlanglijstjes maken."
+
+#: admin/options-init.php:189
+msgid "Button"
+msgstr "Knop"
+
+#: admin/options-init.php:197
+msgid "Enable Shop Loop Button"
+msgstr "Activeer winkellusknop"
+
+#: admin/options-init.php:203
+msgid "Shop Loop Position"
+msgstr "Winkellooppositie"
+
+#: admin/options-init.php:204
+msgid "Specify the positon of the wishlist button in the shop loop."
+msgstr "Geef de positon van de wishlist-knop op in de winkellus."
+
+#: admin/options-init.php:207
+msgid "before_shop_loop_item"
+msgstr "before_shop_loop_item"
+
+#: admin/options-init.php:208
+msgid "before_shop_loop_item_title"
+msgstr "before_shop_loop_item_title"
+
+#: admin/options-init.php:209
+msgid "shop_loop_item_title"
+msgstr "shop_loop_item_title"
+
+#: admin/options-init.php:210
+msgid "after_shop_loop_item_title"
+msgstr "after_shop_loop_item_title"
+
+#: admin/options-init.php:211
+msgid "after_shop_loop_item"
+msgstr "after_shop_loop_item"
+
+#: admin/options-init.php:218 admin/options-init.php:252
+msgid "Hook Priority"
+msgstr "Hook Priority"
+
+#: admin/options-init.php:228
+msgid "Enable Product Page Button"
+msgstr "Knop Productpagina inschakelen"
+
+#: admin/options-init.php:234
+msgid "Single Product Page Position"
+msgstr "Positie van enkele productpagina"
+
+#: admin/options-init.php:235
+msgid "Specify the positon of the wishlist button on the single product page."
+msgstr "Geef de positon van de wishlist-knop op de pagina met één product op."
+
+#: admin/options-init.php:263
+msgid "Styling"
+msgstr "styling"
+
+#: admin/options-init.php:271
+msgid "Modal Styles"
+msgstr "Modale stijlen"
+
+#: admin/options-init.php:272
+msgid "Styles for the wishlist modal."
+msgstr "Stijlen voor de verlanglijst modaal."
+
+#: admin/options-init.php:294
+msgid "Modal Text Color"
+msgstr "Modale tekstkleur"
+
+#: admin/options-init.php:295
+msgid "Text Color of the Modal"
+msgstr "Tekstkleur van de Modal"
+
+#: admin/options-init.php:302
+msgid "Modal Background Color"
+msgstr "Modale achtergrondkleur"
+
+#: admin/options-init.php:303
+msgid "Background Color of the Modal"
+msgstr "Achtergrondkleur van de Modal"
+
+#: admin/options-init.php:309
+msgid "Backdrop Styles"
+msgstr "Achtergrondstijlen"
+
+#: admin/options-init.php:310
+msgid "Styles for the modal backdrop."
+msgstr "Stijlen voor de modale achtergrond."
+
+#: admin/options-init.php:316
+msgid "Background Color"
+msgstr "Achtergrond kleur"
+
+#: admin/options-init.php:343
+msgid "Data to Show"
+msgstr "Te tonen gegevens"
+
+#: admin/options-init.php:358
+msgid "Show Share Buttons"
+msgstr "Knoppen voor delen tonen"
+
+#: admin/options-init.php:371
+msgid "Show Facebook Share"
+msgstr "Laat Facebook Share zien"
+
+#: admin/options-init.php:378
+msgid "Show Twitter Share"
+msgstr "Show Twitter Share"
+
+#: admin/options-init.php:385
+msgid "Show Pinterest Share"
+msgstr "Laat Pinterest Delen"
+
+#: admin/options-init.php:392
+msgid "Show Google Share"
+msgstr "Toon Google Share"
+
+#: admin/options-init.php:399
+msgid "Show Email Share"
+msgstr "E-mail delen weergeven"
+
+#: admin/class-woocommerce-wishlist-post-type.php:64
+msgid "Wishlists"
+msgstr "Wenslijsten"
+
+#: admin/class-woocommerce-wishlist-post-type.php:68
+#, php-format
+msgid "All %s"
+msgstr "Alle %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:70
+#: admin/class-woocommerce-wishlist-post-type.php:73
+#, php-format
+msgid "New %s"
+msgstr "Nieuwe %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:71
+#, php-format
+msgid "Add New %s"
+msgstr "Nieuwe %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:72
+#, php-format
+msgid "Edit %s"
+msgstr "Bewerk %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:74
+#, php-format
+msgid "View %s"
+msgstr "Bekijk %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:75
+#, php-format
+msgid "Search %s"
+msgstr "Zoek %s"
+
+#: admin/class-woocommerce-wishlist-post-type.php:76
+#, php-format
+msgid "No %s found"
+msgstr "Geen %s gevonden"
+
+#: admin/class-woocommerce-wishlist-post-type.php:77
+#, php-format
+msgid "No %s found in trash"
+msgstr "Geen %s gevonden in de prullenbak"
+
+#: admin/class-woocommerce-wishlist-post-type.php:120
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: admin/class-woocommerce-wishlist-post-type.php:188
+msgid " added on "
+msgstr " toegevoegd "
+
+#: admin/class-woocommerce-wishlist-statistics.php:44
+#: admin/class-woocommerce-wishlist-statistics.php:45
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: admin/class-woocommerce-wishlist-statistics.php:62
+msgid "No Wishlists created yet"
+msgstr "Er zijn nog geen verlanglijstjes gemaakt"
+
+#: admin/class-woocommerce-wishlist-statistics.php:114
+msgid "Product"
+msgstr "Artikel"
+
+#: admin/class-woocommerce-wishlist-statistics.php:116
+msgid "Wishlist Count"
+msgstr "Verlanglijst Count"
+
+#: public/class-woocommerce-wishlist-page.php:79
+#: public/class-woocommerce-wishlist-search.php:79
+msgid "You need to create an account or login to use our wishlist."
+msgstr "U moet een account aanmaken of inloggen om onze verlanglijst te gebruiken."
+
+#: public/class-woocommerce-wishlist-search.php:127
+msgid "By "
+msgstr "Door "
+
+#: public/class-woocommerce-wishlist-search.php:128
+msgid " Products"
+msgstr " producten"
+
+#: public/class-woocommerce-wishlist-search.php:133
+#, php-format
+msgid "%d Wishlists found for %s"
+msgstr "%d verlanglijst gevonden voor %s"
+
+#: public/class-woocommerce-wishlist-search.php:135
+#, php-format
+msgid "No Wishlists found for %s"
+msgstr "Geen verlanglijst gevonden voor %s"
+
+#: public/class-woocommerce-wishlist-public.php:144
+#: public/class-woocommerce-wishlist-public.php:219
+#: public/class-woocommerce-wishlist-public.php:234
+msgid "<i class=\"fa fa-heart\"></i> Add to Wishlist"
+msgstr "<i class = \ "fa fa-heart \"> </ i> Toevoegen aan verlanglijst"
+
+#: public/class-woocommerce-wishlist-public.php:145
+msgid "<i class=\"fa fa-heart\"></i> Added to Wishlist"
+msgstr "<i class = \ "fa fa-heart \"> </ i> Toegevoegd aan verlanglijstje"
+
+#: public/class-woocommerce-wishlist-public.php:146
+msgid "Select a Wishlist"
+msgstr "Selecteer een verlanglijst"
+
+#: public/class-woocommerce-wishlist-public.php:147
+msgid "Create a new Wishlist"
+msgstr "Maak een nieuwe verlanglijst"
+
+#: public/class-woocommerce-wishlist-public.php:148
+msgid "Your Wishlist Name"
+msgstr "Uw verlanglijstnaam"
+
+#: public/class-woocommerce-wishlist-public.php:149
+#: public/templates/woocommerce-wishlist.php:23
+msgid "Edit Wishlist"
+msgstr "Bewerk de verlanglijst"
+
+#: public/class-woocommerce-wishlist-public.php:150
+#: public/class-woocommerce-wishlist-public.php:461
+#: public/class-woocommerce-wishlist-public.php:483
+msgid "View Wishlist"
+msgstr "Bekijk verlanglijst"
+
+#: public/class-woocommerce-wishlist-public.php:151
+msgid "Public"
+msgstr "Openbaar"
+
+#: public/class-woocommerce-wishlist-public.php:152
+msgid "Shared"
+msgstr "gedeelde"
+
+#: public/class-woocommerce-wishlist-public.php:153
+msgid "Private"
+msgstr "Privaat"
+
+#: public/class-woocommerce-wishlist-public.php:154
+msgid "Wishlist Deleted"
+msgstr "Verlanglijst verwijderd"
+
+#: public/class-woocommerce-wishlist-public.php:155
+msgid "No products added to your wishlist so far."
+msgstr "Tot nu toe zijn er geen producten toegevoegd aan uw verlanglijstje."
+
+#: public/class-woocommerce-wishlist-public.php:324
+msgid "No Products found"
+msgstr "Geen producten gevonden"
+
+#: public/class-woocommerce-wishlist-public.php:460
+#, php-format
+msgid "Product %s is already on your Wishlist %s!"
+msgstr "Product %s staat al op je verlanglijstje %s !"
+
+#: public/class-woocommerce-wishlist-public.php:482
+#, php-format
+msgid "Product %s has been added to your Wishlist %s."
+msgstr "Product %s is toegevoegd aan uw verlanglijst %s ."
+
+#: public/class-woocommerce-wishlist-public.php:498
+#, php-format
+msgid "Product %s has been removed from your Wishlist %s."
+msgstr "Product %s is verwijderd uit je verlanglijstje %s ."
+
+#: public/templates/woocommerce-wishlist-search.php:20
+msgid "Search for Public Wishlists."
+msgstr "Zoeken naar openbare verlanglijsts."
+
+#: public/templates/woocommerce-wishlist.php:17
+msgid "This wishlist is set to private."
+msgstr "Deze verlanglijst is ingesteld op privé."
+
+#: public/templates/woocommerce-wishlist.php:24
+msgid "Delete Wishlist"
+msgstr "Delete Wishlist"
+
+#: public/templates/woocommerce-wishlist.php:36
+msgid "No products added to this wishlist so far."
+msgstr "Tot nu toe zijn er geen producten aan deze verlanglijst toegevoegd."
+
+#: public/templates/woocommerce-wishlist.php:55
+msgid "Share this Wishlist ..."
+msgstr "Deel deze verlanglijst ..."
+
+#: public/templates/woocommerce-wishlist-page.php:23
+msgid "Please login to use all wishlist features."
+msgstr "Meld u aan om alle verlanglijstfuncties te gebruiken."
+
+#: public/templates/woocommerce-wishlist-page.php:28
+msgid "Your Wishlists"
+msgstr "Je verlanglijstjes"
+
+#: public/templates/woocommerce-wishlist-page.php:51
+msgid "No Wishlists created yet."
+msgstr "Er zijn nog geen verlanglijstjes gemaakt."
+
+#: public/templates/woocommerce-wishlist-page.php:59
+msgid "Create new Wishlist"
+msgstr "Maak een nieuwe verlanglijst"
+
+#: public/templates/woocommerce-wishlist-page.php:64
+msgid "Search Public Wishlists"
+msgstr "Zoek naar openbare verlanglijsts"
+
+#: public/templates/woocommerce-wishlist-single-item.php:113
+msgid "SKU: "
+msgstr "SKU: "
+
+#. Name of the plugin
+msgid "WooCommerce Wishlist"
+msgstr "WooCommerce Verlanglijst"
+
+#. Description of the plugin
+msgid "Let your Users create Wishlists"
+msgstr "Laat uw gebruikers verlanglijstjes maken"
+
+#. URI of the plugin
+msgid "https://plugins.db-dzine.com"
+msgstr "https://plugins.db-dzine.com"
+
+#. Author of the plugin
+msgid "DB-Dzine"
+msgstr "DB-Dzine"
+
+#. Author URI of the plugin
+msgid "http://www.db-dzine.de"
+msgstr "http://www.db-dzine.de"
+

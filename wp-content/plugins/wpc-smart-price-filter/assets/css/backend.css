@@ -1,0 +1,51 @@
+.wpc_smart_price_filter, .wpc_smart_price_filter * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.wpc_smart_price_filter .table {
+    width: 100% !important;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.wpc_smart_price_filter .table {
+    border: none;
+    border-collapse: collapse;
+}
+
+.wpc_smart_price_filter .table .tr {
+    display: flex;
+    align-items: center;
+}
+
+.wpc_smart_price_filter .table .tr .td {
+    text-align: left;
+    padding: 5px;
+    width: 32%;
+}
+
+.wpc_smart_price_filter .table .tr .td:last-child {
+    width: 4%;
+}
+
+.wpc_smart_price_filter .table .tr .td.w100 {
+    width: 100% !important;
+}
+
+.wpc_smart_price_filter input {
+    height: 28px;
+    line-height: 1;
+    width: 100%;
+}
+
+.wpc_smart_price_filter .delete {
+    width: 30px;
+    text-align: center;
+}
+
+.wpc_smart_price_filter .delete a {
+    text-decoration: none;
+    color: red;
+}

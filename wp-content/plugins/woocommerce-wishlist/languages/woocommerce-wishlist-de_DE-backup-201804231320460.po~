@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Quick View\n"
+"POT-Creation-Date: 2018-04-11 09:20+0000\n"
+"PO-Revision-Date: 2018-04-11 09:29+0000\n"
+"Last-Translator: DB-Dzine <contact@db-dzine.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/redux-framework\n"
+"X-Poedit-SearchPathExcluded-1: admin/redux-extensions\n"
+"Report-Msgid-Bugs-To: "
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr ""
+
+#: admin/options-init.php:357
+msgid "Add some javascript if you want."
+msgstr ""
+
+#: admin/options-init.php:350
+msgid "Add some stylesheet if you want."
+msgstr ""
+
+#: admin/options-init.php:114
+msgid "Add to Cart"
+msgstr ""
+
+#: admin/options-init.php:340
+msgid "Advanced settings"
+msgstr ""
+
+#: admin/options-init.php:164
+msgid "after_shop_loop_item"
+msgstr ""
+
+#: admin/options-init.php:163
+msgid "after_shop_loop_item_title"
+msgstr ""
+
+#: admin/options-init.php:122
+msgid "Attributes"
+msgstr ""
+
+#: admin/options-init.php:290
+msgid "Backdrop Styles"
+msgstr ""
+
+#: admin/options-init.php:297
+msgid "Background Color"
+msgstr ""
+
+#: admin/options-init.php:284
+msgid "Background Color of the Modal"
+msgstr ""
+
+#: admin/options-init.php:160
+msgid "before_shop_loop_item"
+msgstr ""
+
+#: admin/options-init.php:161
+msgid "before_shop_loop_item_title"
+msgstr ""
+
+#: admin/options-init.php:181
+msgid "Button Text"
+msgstr ""
+
+#: admin/options-init.php:112
+msgid "Categories"
+msgstr ""
+
+#: admin/options-init.php:349
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options-init.php:356
+msgid "Custom JS"
+msgstr ""
+
+#: admin/options-init.php:341
+msgid "Custom stylesheet / javascript."
+msgstr ""
+
+#: admin/options-init.php:324
+msgid "Data to Show"
+msgstr ""
+
+#. Author of the plugin
+msgid "DB-Dzine"
+msgstr ""
+
+#: admin/options-init.php:121
+msgid "Description"
+msgstr ""
+
+#: admin/options-init.php:149
+msgid "Enable"
+msgstr ""
+
+#: admin/options-init.php:224
+msgid "Enable Content Auto Height"
+msgstr ""
+
+#: admin/options-init.php:150
+msgid "Enable Quick View."
+msgstr ""
+
+#: admin/options-init.php:106
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-init.php:141
+msgid "General"
+msgstr ""
+
+#: admin/options-init.php:171
+msgid "Hook Priority"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.db-dzine.de"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://plugins.db-dzine.com"
+msgstr ""
+
+#: admin/options-init.php:190
+msgid ""
+"If Unchecked our plugin uses the built in template. This can be overwritten "
+"by copying the FILE public/templates/wishlist.php to your themes folder"
+msgstr ""
+
+#: admin/options-init.php:105
+msgid "Image"
+msgstr ""
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr ""
+
+#: admin/options-init.php:211
+msgid "Inline Cascading below the product"
+msgstr ""
+
+#. Description of the plugin
+msgid "Let your Users Quick View products with ease"
+msgstr ""
+
+#: admin/options-init.php:283
+msgid "Modal Background Color"
+msgstr ""
+
+#: admin/options-init.php:250
+msgid "Modal Content Width (in %)"
+msgstr ""
+
+#: admin/options-init.php:241
+msgid "Modal Image Width (in %)"
+msgstr ""
+
+#: admin/options-init.php:231
+msgid "Modal Max Height"
+msgstr ""
+
+#: admin/options-init.php:217
+msgid "Modal Styles"
+msgstr ""
+
+#: admin/options-init.php:275
+msgid "Modal Text Color"
+msgstr ""
+
+#: admin/options-init.php:210
+msgid "Modal Window"
+msgstr ""
+
+#: admin/options-init.php:136
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+
+#: admin/options-init.php:206
+msgid "Open Effect"
+msgstr ""
+
+#: admin/options-init.php:109
+msgid "Price"
+msgstr ""
+
+#: admin/options-init.php:134
+msgid "Quick View"
+msgstr ""
+
+#: admin/options-init.php:123 public/templates/wishlist.php:168
+msgid "Read More"
+msgstr ""
+
+#: admin/options-init.php:108
+msgid "Reviews"
+msgstr ""
+
+#: admin/options-init.php:156
+msgid "Shop Loop Position"
+msgstr ""
+
+#: admin/options-init.php:162
+msgid "shop_loop_item_title"
+msgstr ""
+
+#: admin/options-init.php:113
+msgid "Short Description"
+msgstr ""
+
+#: admin/options-init.php:110
+msgid "SKU"
+msgstr ""
+
+#: public/templates/wishlist.php:120
+msgid "SKU: "
+msgstr ""
+
+#: admin/options-init.php:157
+msgid "Specify the positon of the quick view button in the shop loop."
+msgstr ""
+
+#: admin/options-init.php:291
+msgid "Styles for the modal backdrop."
+msgstr ""
+
+#: admin/options-init.php:218
+msgid "Styles for the quick view modal."
+msgstr ""
+
+#: admin/options-init.php:198
+msgid "Styling"
+msgstr ""
+
+#: admin/options-init.php:111
+msgid "Tags"
+msgstr ""
+
+#: admin/options-init.php:276
+msgid "Text Color of the Modal"
+msgstr ""
+
+#: admin/options-init.php:225
+msgid ""
+"This enabled will take the product image height and set the content to this "
+"height."
+msgstr ""
+
+#: admin/options-init.php:107
+msgid "Title"
+msgstr ""
+
+#: admin/options-init.php:189
+msgid "Use Default Template"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Quick View"
+msgstr ""
+
+#: woocommerce-wishlist.php:93
+msgid ""
+"WooCommerce Quick View requires the WooCommerce & free Redux Framework "
+"plugin. Please install or activate them!"
+msgstr ""
